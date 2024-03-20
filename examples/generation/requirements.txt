@@ -1,0 +1,5 @@
+joblib==1.3.2
+numpy==1.26.4
+opc==0.1.0
+pandas==2.2.1
+rdkit==2023.9.5
