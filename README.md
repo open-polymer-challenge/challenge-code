@@ -2,8 +2,6 @@
   <img width='70%' src='https://i.ibb.co/Rb7QkDy/page.png' />
 </p>
 
---------------------------------------------------------------------------------
-
 ## Overview
 
 The Open Polymer Challenge (OPC) targets two application scenarios in polymer discovery: polymer property prediction and polymer generation, which are crucial for virtual screening and inverse design. To facilitate the challenge, the package aims to automatically download data, preprocess it, and evaluate models.
