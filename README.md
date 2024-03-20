@@ -8,7 +8,7 @@ The Open Polymer Challenge (OPC) targets two application scenarios in polymer di
 
 ## Installation
 
-You can install package using `pip install opc`. Current version of package is tested with the following requirements
+You can install package using `pip install -i https://test.pypi.org/simple/ opc`. Current version of package is tested with the following requirements
  - joblib==1.3.2
  - numpy==1.26.4
  - pandas==2.2.1
