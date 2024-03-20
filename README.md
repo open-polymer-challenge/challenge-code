@@ -1,5 +1,5 @@
 <p align='center'>
-  <img width='60%' src='https://i.ibb.co/DpvbmQg/page.png' />
+  <img width='70%' src='https://i.ibb.co/Rb7QkDy/page.png' />
 </p>
 
 --------------------------------------------------------------------------------
@@ -9,7 +9,6 @@
 The Open Polymer Challenge (OPC) targets two application scenarios in polymer discovery: polymer property prediction and polymer generation, which are crucial for virtual screening and inverse design. To facilitate the challenge, the package aims to automatically download data, preprocess it, and evaluate models.
 
 ## Installation
-
 
 You can install package using `pip install opc`. Current version of package is tested with the following requirements
  - joblib==1.3.2

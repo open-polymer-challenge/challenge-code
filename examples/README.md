@@ -60,11 +60,8 @@ Here is one way to generate training log file
 nohup python -u graphga.py > graphga.log
 ```
 
-Prediction results should be saved to the file `output.csv`, remember to remove the header and index for the file.
 
-
-
-## output for test-dev
+## Output for test-dev
 
 The dataset class defined in `dataset.py` provides a method for automatically downloading the `test-challenge.json` file.
 
