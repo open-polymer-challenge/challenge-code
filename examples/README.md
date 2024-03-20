@@ -63,6 +63,6 @@ nohup python -u graphga.py > graphga.log
 
 ## Output for test-dev
 
-The dataset class defined in `dataset.py` provides a method for automatically downloading the `test-challenge.json` file.
+The dataset class defined in `dataset.py` provides a method for automatically downloading the `test-dev.json` file.
 
 The function or code examples offers a way to fill the JSON file. Results are saved to the file `out-{method}.json`, which can be used for submission and evaluation. Please do not use the data in the `test-dev.json` set for model training at any phase.
