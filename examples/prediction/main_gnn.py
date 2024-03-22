@@ -252,12 +252,11 @@ def main(seed):
 
     vector_to_parameters(best_params, model.parameters())
 
-    if seed == 0:
-        test_dev = TestDevPolymer(name="prediction")
-        test_feature, smiles_list, target_list = test_dev.prepare_feature(
-            transform="PyG"
-        )
-        save_prediction(model, device, test_feature, smiles_list, target_list, out_file=f"out-{args.gnn}.json")
+    test_dev = TestDevPolymer(name="prediction")
+    test_feature, smiles_list, target_list = test_dev.prepare_feature(
+        transform="PyG"
+    )
+    save_prediction(model, device, test_feature, smiles_list, target_list, out_file=f"out_cached/out-{args.gnn}-{seed}.json")
 
     return (
         args.gnn,

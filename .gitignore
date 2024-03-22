@@ -28,6 +28,7 @@ dataset/
 **/.sh
 **/.csv
 **/.json
+**/main_gnn_study.py
 !**/out-gcn-virtual.json
 !**/out-GraphGA-False.json
 **/checkpoint
@@ -37,3 +38,9 @@ dataset/
 **/logs/**
 **/lightning_logs/**
 **/data_*/**
+**/out_cached*
+**/out_cached/**
+**/out_cached*
+**/out_cached/**
+**/out_cachedstep*
+**/out_cachedstep/**

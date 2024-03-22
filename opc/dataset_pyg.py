@@ -40,7 +40,7 @@ class PygPolymerDataset(InMemoryDataset):
         super(PygPolymerDataset, self).__init__(self.root, transform, pre_transform)
         self.data, self.slices = torch.load(self.processed_paths[0])
 
-    def get_idx_split(self, split_type="similarity"):
+    def get_idx_split(self, split_type="scaffold"):
         path = osp.join(self.root, "split", split_type)
         if os.path.isfile(os.path.join(path, "split_dict.pt")):
             return torch.load(os.path.join(path, "split_dict.pt"))

@@ -1,0 +1,2111 @@
+Seed 0
+Start training...
+Update Epoch 0: best_train: 0.5813 best_valid: 0.6261
+Update Epoch 1: best_train: 0.3014 best_valid: 0.4469
+Epoch 2: best_valid: 0.4469, current_valid: 0.6831, patience: 1/50
+Update Epoch 3: best_train: 0.1856 best_valid: 0.2285
+Epoch 4: best_valid: 0.2285, current_valid: 0.4311, patience: 1/50
+Epoch 5: best_valid: 0.2285, current_valid: 0.3667, patience: 2/50
+Update Epoch 6: best_train: 0.1487 best_valid: 0.1920
+Epoch 7: best_valid: 0.1920, current_valid: 0.2194, patience: 1/50
+Epoch 8: best_valid: 0.1920, current_valid: 0.2497, patience: 2/50
+Epoch 9: best_valid: 0.1920, current_valid: 0.3277, patience: 3/50
+Epoch 10: best_valid: 0.1920, current_valid: 0.3422, patience: 4/50
+Epoch 11: best_valid: 0.1920, current_valid: 0.3588, patience: 5/50
+Epoch 12: best_valid: 0.1920, current_valid: 0.2420, patience: 6/50
+Epoch 13: best_valid: 0.1920, current_valid: 0.3018, patience: 7/50
+Update Epoch 14: best_train: 0.1445 best_valid: 0.1911
+Epoch 15: best_valid: 0.1911, current_valid: 0.3544, patience: 1/50
+Epoch 16: best_valid: 0.1911, current_valid: 0.2752, patience: 2/50
+Update Epoch 17: best_train: 0.1100 best_valid: 0.1704
+Update Epoch 18: best_train: 0.1032 best_valid: 0.1661
+Update Epoch 19: best_train: 0.1020 best_valid: 0.1491
+Epoch 20: best_valid: 0.1491, current_valid: 0.1888, patience: 1/50
+Update Epoch 21: best_train: 0.0969 best_valid: 0.1488
+Epoch 22: best_valid: 0.1488, current_valid: 0.1759, patience: 1/50
+Epoch 23: best_valid: 0.1488, current_valid: 0.1719, patience: 2/50
+Update Epoch 24: best_train: 0.1046 best_valid: 0.1353
+Epoch 25: best_valid: 0.1353, current_valid: 0.1443, patience: 1/50
+Epoch 26: best_valid: 0.1353, current_valid: 0.1482, patience: 2/50
+Epoch 27: best_valid: 0.1353, current_valid: 0.1576, patience: 3/50
+Epoch 28: best_valid: 0.1353, current_valid: 0.1837, patience: 4/50
+Epoch 29: best_valid: 0.1353, current_valid: 0.1368, patience: 5/50
+Epoch 30: best_valid: 0.1353, current_valid: 0.1610, patience: 6/50
+Epoch 31: best_valid: 0.1353, current_valid: 0.1774, patience: 7/50
+Epoch 32: best_valid: 0.1353, current_valid: 0.1781, patience: 8/50
+Epoch 33: best_valid: 0.1353, current_valid: 0.1408, patience: 9/50
+Epoch 34: best_valid: 0.1353, current_valid: 0.1677, patience: 10/50
+Epoch 35: best_valid: 0.1353, current_valid: 0.1743, patience: 11/50
+Update Epoch 36: best_train: 0.0975 best_valid: 0.1297
+Update Epoch 37: best_train: 0.0797 best_valid: 0.1264
+Epoch 38: best_valid: 0.1264, current_valid: 0.1372, patience: 1/50
+Epoch 39: best_valid: 0.1264, current_valid: 0.1277, patience: 2/50
+Epoch 40: best_valid: 0.1264, current_valid: 0.1649, patience: 3/50
+Epoch 41: best_valid: 0.1264, current_valid: 0.1565, patience: 4/50
+Update Epoch 42: best_train: 0.0790 best_valid: 0.1153
+Epoch 43: best_valid: 0.1153, current_valid: 0.1453, patience: 1/50
+Epoch 44: best_valid: 0.1153, current_valid: 0.1472, patience: 2/50
+Update Epoch 45: best_train: 0.0638 best_valid: 0.0998
+Epoch 46: best_valid: 0.0998, current_valid: 0.1263, patience: 1/50
+Epoch 47: best_valid: 0.0998, current_valid: 0.1084, patience: 2/50
+Epoch 48: best_valid: 0.0998, current_valid: 0.1175, patience: 3/50
+Epoch 49: best_valid: 0.0998, current_valid: 0.1025, patience: 4/50
+Epoch 50: best_valid: 0.0998, current_valid: 0.1194, patience: 5/50
+Epoch 51: best_valid: 0.0998, current_valid: 0.1115, patience: 6/50
+Epoch 52: best_valid: 0.0998, current_valid: 0.1176, patience: 7/50
+Epoch 53: best_valid: 0.0998, current_valid: 0.1175, patience: 8/50
+Epoch 54: best_valid: 0.0998, current_valid: 0.1047, patience: 9/50
+Epoch 55: best_valid: 0.0998, current_valid: 0.1243, patience: 10/50
+Epoch 56: best_valid: 0.0998, current_valid: 0.1025, patience: 11/50
+Epoch 57: best_valid: 0.0998, current_valid: 0.1151, patience: 12/50
+Epoch 58: best_valid: 0.0998, current_valid: 0.1347, patience: 13/50
+Epoch 59: best_valid: 0.0998, current_valid: 0.1193, patience: 14/50
+Epoch 60: best_valid: 0.0998, current_valid: 0.1394, patience: 15/50
+Epoch 61: best_valid: 0.0998, current_valid: 0.1225, patience: 16/50
+Update Epoch 62: best_train: 0.0556 best_valid: 0.0946
+Epoch 63: best_valid: 0.0946, current_valid: 0.1075, patience: 1/50
+Epoch 64: best_valid: 0.0946, current_valid: 0.1454, patience: 2/50
+Epoch 65: best_valid: 0.0946, current_valid: 0.1442, patience: 3/50
+Epoch 66: best_valid: 0.0946, current_valid: 0.1084, patience: 4/50
+Epoch 67: best_valid: 0.0946, current_valid: 0.1457, patience: 5/50
+Epoch 68: best_valid: 0.0946, current_valid: 0.1207, patience: 6/50
+Epoch 69: best_valid: 0.0946, current_valid: 0.1218, patience: 7/50
+Epoch 70: best_valid: 0.0946, current_valid: 0.1285, patience: 8/50
+Epoch 71: best_valid: 0.0946, current_valid: 0.1140, patience: 9/50
+Epoch 72: best_valid: 0.0946, current_valid: 0.1085, patience: 10/50
+Epoch 73: best_valid: 0.0946, current_valid: 0.1084, patience: 11/50
+Epoch 74: best_valid: 0.0946, current_valid: 0.1137, patience: 12/50
+Epoch 75: best_valid: 0.0946, current_valid: 0.1000, patience: 13/50
+Epoch 76: best_valid: 0.0946, current_valid: 0.1380, patience: 14/50
+Update Epoch 77: best_train: 0.0481 best_valid: 0.0874
+Epoch 78: best_valid: 0.0874, current_valid: 0.0932, patience: 1/50
+Epoch 79: best_valid: 0.0874, current_valid: 0.1262, patience: 2/50
+Epoch 80: best_valid: 0.0874, current_valid: 0.0975, patience: 3/50
+Epoch 81: best_valid: 0.0874, current_valid: 0.1265, patience: 4/50
+Epoch 82: best_valid: 0.0874, current_valid: 0.1189, patience: 5/50
+Epoch 83: best_valid: 0.0874, current_valid: 0.0998, patience: 6/50
+Epoch 84: best_valid: 0.0874, current_valid: 0.1385, patience: 7/50
+Epoch 85: best_valid: 0.0874, current_valid: 0.1153, patience: 8/50
+Epoch 86: best_valid: 0.0874, current_valid: 0.1166, patience: 9/50
+Epoch 87: best_valid: 0.0874, current_valid: 0.1268, patience: 10/50
+Epoch 88: best_valid: 0.0874, current_valid: 0.1076, patience: 11/50
+Epoch 89: best_valid: 0.0874, current_valid: 0.1236, patience: 12/50
+Epoch 90: best_valid: 0.0874, current_valid: 0.1164, patience: 13/50
+Epoch 91: best_valid: 0.0874, current_valid: 0.1173, patience: 14/50
+Epoch 92: best_valid: 0.0874, current_valid: 0.0926, patience: 15/50
+Epoch 93: best_valid: 0.0874, current_valid: 0.1705, patience: 16/50
+Epoch 94: best_valid: 0.0874, current_valid: 0.0997, patience: 17/50
+Epoch 95: best_valid: 0.0874, current_valid: 0.1096, patience: 18/50
+Epoch 96: best_valid: 0.0874, current_valid: 0.1003, patience: 19/50
+Epoch 97: best_valid: 0.0874, current_valid: 0.0948, patience: 20/50
+Epoch 98: best_valid: 0.0874, current_valid: 0.0890, patience: 21/50
+Epoch 99: best_valid: 0.0874, current_valid: 0.0988, patience: 22/50
+Epoch 100: best_valid: 0.0874, current_valid: 0.1350, patience: 23/50
+Epoch 101: best_valid: 0.0874, current_valid: 0.1064, patience: 24/50
+Epoch 102: best_valid: 0.0874, current_valid: 0.1171, patience: 25/50
+Epoch 103: best_valid: 0.0874, current_valid: 0.1133, patience: 26/50
+Epoch 104: best_valid: 0.0874, current_valid: 0.0981, patience: 27/50
+Epoch 105: best_valid: 0.0874, current_valid: 0.1057, patience: 28/50
+Epoch 106: best_valid: 0.0874, current_valid: 0.1277, patience: 29/50
+Epoch 107: best_valid: 0.0874, current_valid: 0.1021, patience: 30/50
+Epoch 108: best_valid: 0.0874, current_valid: 0.0951, patience: 31/50
+Epoch 109: best_valid: 0.0874, current_valid: 0.1024, patience: 32/50
+Epoch 110: best_valid: 0.0874, current_valid: 0.0951, patience: 33/50
+Update Epoch 111: best_train: 0.0420 best_valid: 0.0858
+Epoch 112: best_valid: 0.0858, current_valid: 0.1135, patience: 1/50
+Epoch 113: best_valid: 0.0858, current_valid: 0.1032, patience: 2/50
+Epoch 114: best_valid: 0.0858, current_valid: 0.0993, patience: 3/50
+Epoch 115: best_valid: 0.0858, current_valid: 0.1332, patience: 4/50
+Epoch 116: best_valid: 0.0858, current_valid: 0.0918, patience: 5/50
+Update Epoch 117: best_train: 0.0365 best_valid: 0.0818
+Epoch 118: best_valid: 0.0818, current_valid: 0.1163, patience: 1/50
+Epoch 119: best_valid: 0.0818, current_valid: 0.1102, patience: 2/50
+Epoch 120: best_valid: 0.0818, current_valid: 0.0892, patience: 3/50
+Epoch 121: best_valid: 0.0818, current_valid: 0.0916, patience: 4/50
+Epoch 122: best_valid: 0.0818, current_valid: 0.0920, patience: 5/50
+Epoch 123: best_valid: 0.0818, current_valid: 0.0838, patience: 6/50
+Epoch 124: best_valid: 0.0818, current_valid: 0.0951, patience: 7/50
+Epoch 125: best_valid: 0.0818, current_valid: 0.0995, patience: 8/50
+Epoch 126: best_valid: 0.0818, current_valid: 0.0841, patience: 9/50
+Epoch 127: best_valid: 0.0818, current_valid: 0.1220, patience: 10/50
+Epoch 128: best_valid: 0.0818, current_valid: 0.0962, patience: 11/50
+Epoch 129: best_valid: 0.0818, current_valid: 0.0856, patience: 12/50
+Epoch 130: best_valid: 0.0818, current_valid: 0.0942, patience: 13/50
+Epoch 131: best_valid: 0.0818, current_valid: 0.0880, patience: 14/50
+Epoch 132: best_valid: 0.0818, current_valid: 0.0945, patience: 15/50
+Epoch 133: best_valid: 0.0818, current_valid: 0.0877, patience: 16/50
+Epoch 134: best_valid: 0.0818, current_valid: 0.0929, patience: 17/50
+Epoch 135: best_valid: 0.0818, current_valid: 0.0848, patience: 18/50
+Epoch 136: best_valid: 0.0818, current_valid: 0.1007, patience: 19/50
+Epoch 137: best_valid: 0.0818, current_valid: 0.0910, patience: 20/50
+Epoch 138: best_valid: 0.0818, current_valid: 0.0954, patience: 21/50
+Epoch 139: best_valid: 0.0818, current_valid: 0.0853, patience: 22/50
+Epoch 140: best_valid: 0.0818, current_valid: 0.0966, patience: 23/50
+Epoch 141: best_valid: 0.0818, current_valid: 0.0854, patience: 24/50
+Epoch 142: best_valid: 0.0818, current_valid: 0.0825, patience: 25/50
+Update Epoch 143: best_train: 0.0286 best_valid: 0.0794
+Epoch 144: best_valid: 0.0794, current_valid: 0.0818, patience: 1/50
+Epoch 145: best_valid: 0.0794, current_valid: 0.0954, patience: 2/50
+Epoch 146: best_valid: 0.0794, current_valid: 0.0893, patience: 3/50
+Epoch 147: best_valid: 0.0794, current_valid: 0.0917, patience: 4/50
+Epoch 148: best_valid: 0.0794, current_valid: 0.0880, patience: 5/50
+Epoch 149: best_valid: 0.0794, current_valid: 0.0856, patience: 6/50
+Epoch 150: best_valid: 0.0794, current_valid: 0.0838, patience: 7/50
+Epoch 151: best_valid: 0.0794, current_valid: 0.0890, patience: 8/50
+Epoch 152: best_valid: 0.0794, current_valid: 0.1107, patience: 9/50
+Epoch 153: best_valid: 0.0794, current_valid: 0.0946, patience: 10/50
+Epoch 154: best_valid: 0.0794, current_valid: 0.0889, patience: 11/50
+Epoch 155: best_valid: 0.0794, current_valid: 0.0930, patience: 12/50
+Epoch 156: best_valid: 0.0794, current_valid: 0.0963, patience: 13/50
+Epoch 157: best_valid: 0.0794, current_valid: 0.0866, patience: 14/50
+Epoch 158: best_valid: 0.0794, current_valid: 0.0865, patience: 15/50
+Epoch 159: best_valid: 0.0794, current_valid: 0.0984, patience: 16/50
+Epoch 160: best_valid: 0.0794, current_valid: 0.0847, patience: 17/50
+Epoch 161: best_valid: 0.0794, current_valid: 0.0930, patience: 18/50
+Epoch 162: best_valid: 0.0794, current_valid: 0.0888, patience: 19/50
+Epoch 163: best_valid: 0.0794, current_valid: 0.0870, patience: 20/50
+Epoch 164: best_valid: 0.0794, current_valid: 0.0985, patience: 21/50
+Epoch 165: best_valid: 0.0794, current_valid: 0.1035, patience: 22/50
+Epoch 166: best_valid: 0.0794, current_valid: 0.0913, patience: 23/50
+Epoch 167: best_valid: 0.0794, current_valid: 0.0918, patience: 24/50
+Epoch 168: best_valid: 0.0794, current_valid: 0.0986, patience: 25/50
+Epoch 169: best_valid: 0.0794, current_valid: 0.0918, patience: 26/50
+Epoch 170: best_valid: 0.0794, current_valid: 0.0847, patience: 27/50
+Epoch 171: best_valid: 0.0794, current_valid: 0.0909, patience: 28/50
+Epoch 172: best_valid: 0.0794, current_valid: 0.0829, patience: 29/50
+Epoch 173: best_valid: 0.0794, current_valid: 0.0924, patience: 30/50
+Epoch 174: best_valid: 0.0794, current_valid: 0.0879, patience: 31/50
+Epoch 175: best_valid: 0.0794, current_valid: 0.0842, patience: 32/50
+Epoch 176: best_valid: 0.0794, current_valid: 0.0835, patience: 33/50
+Epoch 177: best_valid: 0.0794, current_valid: 0.0836, patience: 34/50
+Epoch 178: best_valid: 0.0794, current_valid: 0.0818, patience: 35/50
+Epoch 179: best_valid: 0.0794, current_valid: 0.0929, patience: 36/50
+Epoch 180: best_valid: 0.0794, current_valid: 0.0834, patience: 37/50
+Epoch 181: best_valid: 0.0794, current_valid: 0.1053, patience: 38/50
+Epoch 182: best_valid: 0.0794, current_valid: 0.0879, patience: 39/50
+Epoch 183: best_valid: 0.0794, current_valid: 0.0881, patience: 40/50
+Epoch 184: best_valid: 0.0794, current_valid: 0.0844, patience: 41/50
+Epoch 185: best_valid: 0.0794, current_valid: 0.1019, patience: 42/50
+Epoch 186: best_valid: 0.0794, current_valid: 0.0896, patience: 43/50
+Epoch 187: best_valid: 0.0794, current_valid: 0.0886, patience: 44/50
+Epoch 188: best_valid: 0.0794, current_valid: 0.0816, patience: 45/50
+Epoch 189: best_valid: 0.0794, current_valid: 0.0818, patience: 46/50
+Epoch 190: best_valid: 0.0794, current_valid: 0.0945, patience: 47/50
+Epoch 191: best_valid: 0.0794, current_valid: 0.1004, patience: 48/50
+Epoch 192: best_valid: 0.0794, current_valid: 0.0890, patience: 49/50
+Epoch 193: best_valid: 0.0794, current_valid: 0.0841, patience: 50/50
+Epoch 194: best_valid: 0.0794, current_valid: 0.0884, patience: 51/50
+Finished. 
+ Best validation epoch 143 with metric wmae, train 0.0286, valid 0.0794
+File test_dev.json already exists
+Predictions saved to out_cached/out-gcn-virtual-0.json, to be evaluated with weights tensor([0.2312, 0.8124, 0.8124, 0.8657, 0.8966, 0.9598, 1.4869, 1.3299, 1.3573,
+        0.9912, 1.2566]) for each task.
+Seed 1
+Start training...
+Update Epoch 0: best_train: 1.0498 best_valid: 1.4783
+Update Epoch 1: best_train: 0.4497 best_valid: 0.7718
+Update Epoch 2: best_train: 0.2504 best_valid: 0.3890
+Epoch 3: best_valid: 0.3890, current_valid: 0.5946, patience: 1/50
+Epoch 4: best_valid: 0.3890, current_valid: 0.5281, patience: 2/50
+Update Epoch 5: best_train: 0.2040 best_valid: 0.2863
+Update Epoch 6: best_train: 0.1749 best_valid: 0.2468
+Epoch 7: best_valid: 0.2468, current_valid: 0.2735, patience: 1/50
+Epoch 8: best_valid: 0.2468, current_valid: 0.3133, patience: 2/50
+Epoch 9: best_valid: 0.2468, current_valid: 0.2971, patience: 3/50
+Update Epoch 10: best_train: 0.1652 best_valid: 0.2381
+Update Epoch 11: best_train: 0.1411 best_valid: 0.2134
+Epoch 12: best_valid: 0.2134, current_valid: 0.2311, patience: 1/50
+Epoch 13: best_valid: 0.2134, current_valid: 0.2194, patience: 2/50
+Update Epoch 14: best_train: 0.1463 best_valid: 0.2076
+Update Epoch 15: best_train: 0.1255 best_valid: 0.1953
+Update Epoch 16: best_train: 0.1129 best_valid: 0.1721
+Epoch 17: best_valid: 0.1721, current_valid: 0.1883, patience: 1/50
+Update Epoch 18: best_train: 0.1003 best_valid: 0.1496
+Epoch 19: best_valid: 0.1496, current_valid: 0.1713, patience: 1/50
+Epoch 20: best_valid: 0.1496, current_valid: 0.1878, patience: 2/50
+Epoch 21: best_valid: 0.1496, current_valid: 0.1975, patience: 3/50
+Update Epoch 22: best_train: 0.0970 best_valid: 0.1365
+Epoch 23: best_valid: 0.1365, current_valid: 0.1382, patience: 1/50
+Update Epoch 24: best_train: 0.0850 best_valid: 0.1237
+Epoch 25: best_valid: 0.1237, current_valid: 0.1640, patience: 1/50
+Epoch 26: best_valid: 0.1237, current_valid: 0.1481, patience: 2/50
+Epoch 27: best_valid: 0.1237, current_valid: 0.1377, patience: 3/50
+Epoch 28: best_valid: 0.1237, current_valid: 0.1353, patience: 4/50
+Epoch 29: best_valid: 0.1237, current_valid: 0.1856, patience: 5/50
+Epoch 30: best_valid: 0.1237, current_valid: 0.1551, patience: 6/50
+Epoch 31: best_valid: 0.1237, current_valid: 0.1411, patience: 7/50
+Epoch 32: best_valid: 0.1237, current_valid: 0.1429, patience: 8/50
+Epoch 33: best_valid: 0.1237, current_valid: 0.1241, patience: 9/50
+Epoch 34: best_valid: 0.1237, current_valid: 0.1267, patience: 10/50
+Epoch 35: best_valid: 0.1237, current_valid: 0.2218, patience: 11/50
+Epoch 36: best_valid: 0.1237, current_valid: 0.1635, patience: 12/50
+Update Epoch 37: best_train: 0.0789 best_valid: 0.1148
+Epoch 38: best_valid: 0.1148, current_valid: 0.1699, patience: 1/50
+Update Epoch 39: best_train: 0.0701 best_valid: 0.1070
+Update Epoch 40: best_train: 0.0683 best_valid: 0.1032
+Epoch 41: best_valid: 0.1032, current_valid: 0.1231, patience: 1/50
+Epoch 42: best_valid: 0.1032, current_valid: 0.1429, patience: 2/50
+Epoch 43: best_valid: 0.1032, current_valid: 0.1643, patience: 3/50
+Epoch 44: best_valid: 0.1032, current_valid: 0.1662, patience: 4/50
+Epoch 45: best_valid: 0.1032, current_valid: 0.1671, patience: 5/50
+Epoch 46: best_valid: 0.1032, current_valid: 0.1471, patience: 6/50
+Epoch 47: best_valid: 0.1032, current_valid: 0.1244, patience: 7/50
+Epoch 48: best_valid: 0.1032, current_valid: 0.1876, patience: 8/50
+Epoch 49: best_valid: 0.1032, current_valid: 0.1279, patience: 9/50
+Update Epoch 50: best_train: 0.0688 best_valid: 0.1010
+Epoch 51: best_valid: 0.1010, current_valid: 0.1315, patience: 1/50
+Update Epoch 52: best_train: 0.0687 best_valid: 0.0996
+Epoch 53: best_valid: 0.0996, current_valid: 0.1347, patience: 1/50
+Epoch 54: best_valid: 0.0996, current_valid: 0.1133, patience: 2/50
+Epoch 55: best_valid: 0.0996, current_valid: 0.1300, patience: 3/50
+Epoch 56: best_valid: 0.0996, current_valid: 0.1170, patience: 4/50
+Epoch 57: best_valid: 0.0996, current_valid: 0.1173, patience: 5/50
+Epoch 58: best_valid: 0.0996, current_valid: 0.1467, patience: 6/50
+Epoch 59: best_valid: 0.0996, current_valid: 0.1180, patience: 7/50
+Epoch 60: best_valid: 0.0996, current_valid: 0.1281, patience: 8/50
+Epoch 61: best_valid: 0.0996, current_valid: 0.1101, patience: 9/50
+Update Epoch 62: best_train: 0.0561 best_valid: 0.0958
+Epoch 63: best_valid: 0.0958, current_valid: 0.1140, patience: 1/50
+Update Epoch 64: best_train: 0.0540 best_valid: 0.0925
+Epoch 65: best_valid: 0.0925, current_valid: 0.1247, patience: 1/50
+Epoch 66: best_valid: 0.0925, current_valid: 0.1280, patience: 2/50
+Epoch 67: best_valid: 0.0925, current_valid: 0.1205, patience: 3/50
+Epoch 68: best_valid: 0.0925, current_valid: 0.1243, patience: 4/50
+Epoch 69: best_valid: 0.0925, current_valid: 0.1144, patience: 5/50
+Epoch 70: best_valid: 0.0925, current_valid: 0.1234, patience: 6/50
+Epoch 71: best_valid: 0.0925, current_valid: 0.1008, patience: 7/50
+Epoch 72: best_valid: 0.0925, current_valid: 0.1083, patience: 8/50
+Epoch 73: best_valid: 0.0925, current_valid: 0.1167, patience: 9/50
+Epoch 74: best_valid: 0.0925, current_valid: 0.1183, patience: 10/50
+Epoch 75: best_valid: 0.0925, current_valid: 0.0926, patience: 11/50
+Epoch 76: best_valid: 0.0925, current_valid: 0.0979, patience: 12/50
+Epoch 77: best_valid: 0.0925, current_valid: 0.1057, patience: 13/50
+Epoch 78: best_valid: 0.0925, current_valid: 0.1532, patience: 14/50
+Epoch 79: best_valid: 0.0925, current_valid: 0.1467, patience: 15/50
+Epoch 80: best_valid: 0.0925, current_valid: 0.1053, patience: 16/50
+Epoch 81: best_valid: 0.0925, current_valid: 0.1283, patience: 17/50
+Epoch 82: best_valid: 0.0925, current_valid: 0.1216, patience: 18/50
+Epoch 83: best_valid: 0.0925, current_valid: 0.1144, patience: 19/50
+Epoch 84: best_valid: 0.0925, current_valid: 0.1466, patience: 20/50
+Epoch 85: best_valid: 0.0925, current_valid: 0.0929, patience: 21/50
+Epoch 86: best_valid: 0.0925, current_valid: 0.0987, patience: 22/50
+Epoch 87: best_valid: 0.0925, current_valid: 0.1023, patience: 23/50
+Epoch 88: best_valid: 0.0925, current_valid: 0.1375, patience: 24/50
+Epoch 89: best_valid: 0.0925, current_valid: 0.0965, patience: 25/50
+Epoch 90: best_valid: 0.0925, current_valid: 0.1077, patience: 26/50
+Epoch 91: best_valid: 0.0925, current_valid: 0.1159, patience: 27/50
+Update Epoch 92: best_train: 0.0471 best_valid: 0.0898
+Epoch 93: best_valid: 0.0898, current_valid: 0.1517, patience: 1/50
+Epoch 94: best_valid: 0.0898, current_valid: 0.1018, patience: 2/50
+Epoch 95: best_valid: 0.0898, current_valid: 0.0954, patience: 3/50
+Epoch 96: best_valid: 0.0898, current_valid: 0.1112, patience: 4/50
+Epoch 97: best_valid: 0.0898, current_valid: 0.0954, patience: 5/50
+Epoch 98: best_valid: 0.0898, current_valid: 0.1025, patience: 6/50
+Epoch 99: best_valid: 0.0898, current_valid: 0.0919, patience: 7/50
+Epoch 100: best_valid: 0.0898, current_valid: 0.1004, patience: 8/50
+Epoch 101: best_valid: 0.0898, current_valid: 0.1087, patience: 9/50
+Epoch 102: best_valid: 0.0898, current_valid: 0.1101, patience: 10/50
+Epoch 103: best_valid: 0.0898, current_valid: 0.1694, patience: 11/50
+Epoch 104: best_valid: 0.0898, current_valid: 0.1006, patience: 12/50
+Epoch 105: best_valid: 0.0898, current_valid: 0.1053, patience: 13/50
+Epoch 106: best_valid: 0.0898, current_valid: 0.0988, patience: 14/50
+Epoch 107: best_valid: 0.0898, current_valid: 0.0946, patience: 15/50
+Epoch 108: best_valid: 0.0898, current_valid: 0.1031, patience: 16/50
+Epoch 109: best_valid: 0.0898, current_valid: 0.1017, patience: 17/50
+Epoch 110: best_valid: 0.0898, current_valid: 0.1170, patience: 18/50
+Epoch 111: best_valid: 0.0898, current_valid: 0.0953, patience: 19/50
+Update Epoch 112: best_train: 0.0375 best_valid: 0.0874
+Epoch 113: best_valid: 0.0874, current_valid: 0.0945, patience: 1/50
+Update Epoch 114: best_train: 0.0351 best_valid: 0.0848
+Epoch 115: best_valid: 0.0848, current_valid: 0.0894, patience: 1/50
+Epoch 116: best_valid: 0.0848, current_valid: 0.0894, patience: 2/50
+Epoch 117: best_valid: 0.0848, current_valid: 0.0995, patience: 3/50
+Update Epoch 118: best_train: 0.0347 best_valid: 0.0824
+Epoch 119: best_valid: 0.0824, current_valid: 0.0915, patience: 1/50
+Epoch 120: best_valid: 0.0824, current_valid: 0.1014, patience: 2/50
+Epoch 121: best_valid: 0.0824, current_valid: 0.0964, patience: 3/50
+Epoch 122: best_valid: 0.0824, current_valid: 0.1053, patience: 4/50
+Epoch 123: best_valid: 0.0824, current_valid: 0.0878, patience: 5/50
+Epoch 124: best_valid: 0.0824, current_valid: 0.0845, patience: 6/50
+Epoch 125: best_valid: 0.0824, current_valid: 0.0892, patience: 7/50
+Epoch 126: best_valid: 0.0824, current_valid: 0.1093, patience: 8/50
+Epoch 127: best_valid: 0.0824, current_valid: 0.1037, patience: 9/50
+Epoch 128: best_valid: 0.0824, current_valid: 0.0906, patience: 10/50
+Epoch 129: best_valid: 0.0824, current_valid: 0.0909, patience: 11/50
+Epoch 130: best_valid: 0.0824, current_valid: 0.0921, patience: 12/50
+Epoch 131: best_valid: 0.0824, current_valid: 0.0906, patience: 13/50
+Epoch 132: best_valid: 0.0824, current_valid: 0.1129, patience: 14/50
+Update Epoch 133: best_train: 0.0361 best_valid: 0.0822
+Epoch 134: best_valid: 0.0822, current_valid: 0.0941, patience: 1/50
+Epoch 135: best_valid: 0.0822, current_valid: 0.0943, patience: 2/50
+Epoch 136: best_valid: 0.0822, current_valid: 0.1083, patience: 3/50
+Epoch 137: best_valid: 0.0822, current_valid: 0.1154, patience: 4/50
+Epoch 138: best_valid: 0.0822, current_valid: 0.0959, patience: 5/50
+Epoch 139: best_valid: 0.0822, current_valid: 0.0973, patience: 6/50
+Epoch 140: best_valid: 0.0822, current_valid: 0.0928, patience: 7/50
+Epoch 141: best_valid: 0.0822, current_valid: 0.0926, patience: 8/50
+Epoch 142: best_valid: 0.0822, current_valid: 0.0869, patience: 9/50
+Epoch 143: best_valid: 0.0822, current_valid: 0.0863, patience: 10/50
+Update Epoch 144: best_train: 0.0303 best_valid: 0.0794
+Epoch 145: best_valid: 0.0794, current_valid: 0.0844, patience: 1/50
+Epoch 146: best_valid: 0.0794, current_valid: 0.0880, patience: 2/50
+Update Epoch 147: best_train: 0.0268 best_valid: 0.0785
+Epoch 148: best_valid: 0.0785, current_valid: 0.0969, patience: 1/50
+Epoch 149: best_valid: 0.0785, current_valid: 0.0879, patience: 2/50
+Epoch 150: best_valid: 0.0785, current_valid: 0.0817, patience: 3/50
+Epoch 151: best_valid: 0.0785, current_valid: 0.0999, patience: 4/50
+Epoch 152: best_valid: 0.0785, current_valid: 0.0873, patience: 5/50
+Epoch 153: best_valid: 0.0785, current_valid: 0.1109, patience: 6/50
+Epoch 154: best_valid: 0.0785, current_valid: 0.0842, patience: 7/50
+Epoch 155: best_valid: 0.0785, current_valid: 0.0856, patience: 8/50
+Epoch 156: best_valid: 0.0785, current_valid: 0.0924, patience: 9/50
+Epoch 157: best_valid: 0.0785, current_valid: 0.0935, patience: 10/50
+Epoch 158: best_valid: 0.0785, current_valid: 0.0967, patience: 11/50
+Epoch 159: best_valid: 0.0785, current_valid: 0.1017, patience: 12/50
+Epoch 160: best_valid: 0.0785, current_valid: 0.0952, patience: 13/50
+Epoch 161: best_valid: 0.0785, current_valid: 0.1098, patience: 14/50
+Epoch 162: best_valid: 0.0785, current_valid: 0.0850, patience: 15/50
+Epoch 163: best_valid: 0.0785, current_valid: 0.0884, patience: 16/50
+Epoch 164: best_valid: 0.0785, current_valid: 0.0954, patience: 17/50
+Epoch 165: best_valid: 0.0785, current_valid: 0.0958, patience: 18/50
+Epoch 166: best_valid: 0.0785, current_valid: 0.0873, patience: 19/50
+Epoch 167: best_valid: 0.0785, current_valid: 0.0836, patience: 20/50
+Epoch 168: best_valid: 0.0785, current_valid: 0.0964, patience: 21/50
+Epoch 169: best_valid: 0.0785, current_valid: 0.0903, patience: 22/50
+Epoch 170: best_valid: 0.0785, current_valid: 0.0888, patience: 23/50
+Epoch 171: best_valid: 0.0785, current_valid: 0.0804, patience: 24/50
+Epoch 172: best_valid: 0.0785, current_valid: 0.0833, patience: 25/50
+Epoch 173: best_valid: 0.0785, current_valid: 0.1091, patience: 26/50
+Epoch 174: best_valid: 0.0785, current_valid: 0.0867, patience: 27/50
+Epoch 175: best_valid: 0.0785, current_valid: 0.0852, patience: 28/50
+Epoch 176: best_valid: 0.0785, current_valid: 0.0853, patience: 29/50
+Epoch 177: best_valid: 0.0785, current_valid: 0.0965, patience: 30/50
+Epoch 178: best_valid: 0.0785, current_valid: 0.0902, patience: 31/50
+Epoch 179: best_valid: 0.0785, current_valid: 0.1101, patience: 32/50
+Epoch 180: best_valid: 0.0785, current_valid: 0.1115, patience: 33/50
+Update Epoch 181: best_train: 0.0268 best_valid: 0.0785
+Epoch 182: best_valid: 0.0785, current_valid: 0.0803, patience: 1/50
+Epoch 183: best_valid: 0.0785, current_valid: 0.0868, patience: 2/50
+Epoch 184: best_valid: 0.0785, current_valid: 0.0854, patience: 3/50
+Epoch 185: best_valid: 0.0785, current_valid: 0.0914, patience: 4/50
+Epoch 186: best_valid: 0.0785, current_valid: 0.0820, patience: 5/50
+Epoch 187: best_valid: 0.0785, current_valid: 0.0877, patience: 6/50
+Epoch 188: best_valid: 0.0785, current_valid: 0.0815, patience: 7/50
+Epoch 189: best_valid: 0.0785, current_valid: 0.0881, patience: 8/50
+Epoch 190: best_valid: 0.0785, current_valid: 0.0819, patience: 9/50
+Epoch 191: best_valid: 0.0785, current_valid: 0.0902, patience: 10/50
+Epoch 192: best_valid: 0.0785, current_valid: 0.0831, patience: 11/50
+Epoch 193: best_valid: 0.0785, current_valid: 0.0918, patience: 12/50
+Epoch 194: best_valid: 0.0785, current_valid: 0.0873, patience: 13/50
+Epoch 195: best_valid: 0.0785, current_valid: 0.0788, patience: 14/50
+Epoch 196: best_valid: 0.0785, current_valid: 0.0860, patience: 15/50
+Epoch 197: best_valid: 0.0785, current_valid: 0.0865, patience: 16/50
+Epoch 198: best_valid: 0.0785, current_valid: 0.0954, patience: 17/50
+Epoch 199: best_valid: 0.0785, current_valid: 0.0837, patience: 18/50
+Epoch 200: best_valid: 0.0785, current_valid: 0.0909, patience: 19/50
+Epoch 201: best_valid: 0.0785, current_valid: 0.0863, patience: 20/50
+Epoch 202: best_valid: 0.0785, current_valid: 0.0915, patience: 21/50
+Epoch 203: best_valid: 0.0785, current_valid: 0.0824, patience: 22/50
+Epoch 204: best_valid: 0.0785, current_valid: 0.0887, patience: 23/50
+Epoch 205: best_valid: 0.0785, current_valid: 0.0983, patience: 24/50
+Epoch 206: best_valid: 0.0785, current_valid: 0.0968, patience: 25/50
+Epoch 207: best_valid: 0.0785, current_valid: 0.0826, patience: 26/50
+Epoch 208: best_valid: 0.0785, current_valid: 0.0931, patience: 27/50
+Epoch 209: best_valid: 0.0785, current_valid: 0.0926, patience: 28/50
+Epoch 210: best_valid: 0.0785, current_valid: 0.0986, patience: 29/50
+Epoch 211: best_valid: 0.0785, current_valid: 0.0864, patience: 30/50
+Epoch 212: best_valid: 0.0785, current_valid: 0.0853, patience: 31/50
+Epoch 213: best_valid: 0.0785, current_valid: 0.0908, patience: 32/50
+Epoch 214: best_valid: 0.0785, current_valid: 0.1098, patience: 33/50
+Epoch 215: best_valid: 0.0785, current_valid: 0.0833, patience: 34/50
+Epoch 216: best_valid: 0.0785, current_valid: 0.0866, patience: 35/50
+Epoch 217: best_valid: 0.0785, current_valid: 0.0931, patience: 36/50
+Epoch 218: best_valid: 0.0785, current_valid: 0.0943, patience: 37/50
+Epoch 219: best_valid: 0.0785, current_valid: 0.0840, patience: 38/50
+Epoch 220: best_valid: 0.0785, current_valid: 0.0865, patience: 39/50
+Epoch 221: best_valid: 0.0785, current_valid: 0.0829, patience: 40/50
+Epoch 222: best_valid: 0.0785, current_valid: 0.0953, patience: 41/50
+Epoch 223: best_valid: 0.0785, current_valid: 0.0902, patience: 42/50
+Epoch 224: best_valid: 0.0785, current_valid: 0.0860, patience: 43/50
+Epoch 225: best_valid: 0.0785, current_valid: 0.0887, patience: 44/50
+Epoch 226: best_valid: 0.0785, current_valid: 0.0911, patience: 45/50
+Epoch 227: best_valid: 0.0785, current_valid: 0.0833, patience: 46/50
+Epoch 228: best_valid: 0.0785, current_valid: 0.0835, patience: 47/50
+Epoch 229: best_valid: 0.0785, current_valid: 0.0869, patience: 48/50
+Epoch 230: best_valid: 0.0785, current_valid: 0.0914, patience: 49/50
+Epoch 231: best_valid: 0.0785, current_valid: 0.0793, patience: 50/50
+Epoch 232: best_valid: 0.0785, current_valid: 0.0818, patience: 51/50
+Finished. 
+ Best validation epoch 181 with metric wmae, train 0.0268, valid 0.0785
+Seed 2
+Start training...
+Update Epoch 0: best_train: 0.5534 best_valid: 0.6957
+Update Epoch 1: best_train: 0.3227 best_valid: 0.4739
+Update Epoch 2: best_train: 0.2266 best_valid: 0.3238
+Update Epoch 3: best_train: 0.1862 best_valid: 0.2576
+Epoch 4: best_valid: 0.2576, current_valid: 0.2756, patience: 1/50
+Update Epoch 5: best_train: 0.1659 best_valid: 0.2130
+Update Epoch 6: best_train: 0.1546 best_valid: 0.1922
+Update Epoch 7: best_train: 0.1309 best_valid: 0.1740
+Epoch 8: best_valid: 0.1740, current_valid: 0.2074, patience: 1/50
+Epoch 9: best_valid: 0.1740, current_valid: 0.2275, patience: 2/50
+Epoch 10: best_valid: 0.1740, current_valid: 0.2162, patience: 3/50
+Epoch 11: best_valid: 0.1740, current_valid: 0.2273, patience: 4/50
+Epoch 12: best_valid: 0.1740, current_valid: 0.2871, patience: 5/50
+Epoch 13: best_valid: 0.1740, current_valid: 0.2940, patience: 6/50
+Epoch 14: best_valid: 0.1740, current_valid: 0.3113, patience: 7/50
+Epoch 15: best_valid: 0.1740, current_valid: 0.1969, patience: 8/50
+Epoch 16: best_valid: 0.1740, current_valid: 0.1814, patience: 9/50
+Epoch 17: best_valid: 0.1740, current_valid: 0.2748, patience: 10/50
+Epoch 18: best_valid: 0.1740, current_valid: 0.1967, patience: 11/50
+Epoch 19: best_valid: 0.1740, current_valid: 0.2180, patience: 12/50
+Epoch 20: best_valid: 0.1740, current_valid: 0.2341, patience: 13/50
+Epoch 21: best_valid: 0.1740, current_valid: 0.2240, patience: 14/50
+Update Epoch 22: best_train: 0.1276 best_valid: 0.1667
+Epoch 23: best_valid: 0.1667, current_valid: 0.1716, patience: 1/50
+Update Epoch 24: best_train: 0.1032 best_valid: 0.1544
+Update Epoch 25: best_train: 0.1140 best_valid: 0.1428
+Epoch 26: best_valid: 0.1428, current_valid: 0.2022, patience: 1/50
+Epoch 27: best_valid: 0.1428, current_valid: 0.1679, patience: 2/50
+Epoch 28: best_valid: 0.1428, current_valid: 0.2317, patience: 3/50
+Epoch 29: best_valid: 0.1428, current_valid: 0.1557, patience: 4/50
+Epoch 30: best_valid: 0.1428, current_valid: 0.1706, patience: 5/50
+Update Epoch 31: best_train: 0.0971 best_valid: 0.1425
+Epoch 32: best_valid: 0.1425, current_valid: 0.1857, patience: 1/50
+Epoch 33: best_valid: 0.1425, current_valid: 0.1830, patience: 2/50
+Epoch 34: best_valid: 0.1425, current_valid: 0.1559, patience: 3/50
+Epoch 35: best_valid: 0.1425, current_valid: 0.1447, patience: 4/50
+Update Epoch 36: best_train: 0.0867 best_valid: 0.1368
+Update Epoch 37: best_train: 0.0791 best_valid: 0.1296
+Update Epoch 38: best_train: 0.0749 best_valid: 0.1073
+Epoch 39: best_valid: 0.1073, current_valid: 0.1357, patience: 1/50
+Epoch 40: best_valid: 0.1073, current_valid: 0.1307, patience: 2/50
+Epoch 41: best_valid: 0.1073, current_valid: 0.1289, patience: 3/50
+Epoch 42: best_valid: 0.1073, current_valid: 0.1472, patience: 4/50
+Epoch 43: best_valid: 0.1073, current_valid: 0.1563, patience: 5/50
+Epoch 44: best_valid: 0.1073, current_valid: 0.1386, patience: 6/50
+Epoch 45: best_valid: 0.1073, current_valid: 0.1155, patience: 7/50
+Epoch 46: best_valid: 0.1073, current_valid: 0.1112, patience: 8/50
+Epoch 47: best_valid: 0.1073, current_valid: 0.1250, patience: 9/50
+Epoch 48: best_valid: 0.1073, current_valid: 0.1196, patience: 10/50
+Epoch 49: best_valid: 0.1073, current_valid: 0.1191, patience: 11/50
+Epoch 50: best_valid: 0.1073, current_valid: 0.1425, patience: 12/50
+Epoch 51: best_valid: 0.1073, current_valid: 0.1401, patience: 13/50
+Epoch 52: best_valid: 0.1073, current_valid: 0.1297, patience: 14/50
+Epoch 53: best_valid: 0.1073, current_valid: 0.1441, patience: 15/50
+Epoch 54: best_valid: 0.1073, current_valid: 0.1318, patience: 16/50
+Epoch 55: best_valid: 0.1073, current_valid: 0.1089, patience: 17/50
+Epoch 56: best_valid: 0.1073, current_valid: 0.1296, patience: 18/50
+Update Epoch 57: best_train: 0.0639 best_valid: 0.0997
+Epoch 58: best_valid: 0.0997, current_valid: 0.2690, patience: 1/50
+Epoch 59: best_valid: 0.0997, current_valid: 0.1422, patience: 2/50
+Epoch 60: best_valid: 0.0997, current_valid: 0.1014, patience: 3/50
+Epoch 61: best_valid: 0.0997, current_valid: 0.1186, patience: 4/50
+Epoch 62: best_valid: 0.0997, current_valid: 0.1138, patience: 5/50
+Epoch 63: best_valid: 0.0997, current_valid: 0.1009, patience: 6/50
+Epoch 64: best_valid: 0.0997, current_valid: 0.1393, patience: 7/50
+Epoch 65: best_valid: 0.0997, current_valid: 0.1044, patience: 8/50
+Epoch 66: best_valid: 0.0997, current_valid: 0.1241, patience: 9/50
+Epoch 67: best_valid: 0.0997, current_valid: 0.1012, patience: 10/50
+Epoch 68: best_valid: 0.0997, current_valid: 0.1423, patience: 11/50
+Epoch 69: best_valid: 0.0997, current_valid: 0.1356, patience: 12/50
+Epoch 70: best_valid: 0.0997, current_valid: 0.1010, patience: 13/50
+Epoch 71: best_valid: 0.0997, current_valid: 0.1181, patience: 14/50
+Epoch 72: best_valid: 0.0997, current_valid: 0.1066, patience: 15/50
+Epoch 73: best_valid: 0.0997, current_valid: 0.1175, patience: 16/50
+Epoch 74: best_valid: 0.0997, current_valid: 0.1155, patience: 17/50
+Update Epoch 75: best_train: 0.0537 best_valid: 0.0983
+Epoch 76: best_valid: 0.0983, current_valid: 0.1330, patience: 1/50
+Epoch 77: best_valid: 0.0983, current_valid: 0.1077, patience: 2/50
+Epoch 78: best_valid: 0.0983, current_valid: 0.1147, patience: 3/50
+Epoch 79: best_valid: 0.0983, current_valid: 0.1082, patience: 4/50
+Epoch 80: best_valid: 0.0983, current_valid: 0.1129, patience: 5/50
+Epoch 81: best_valid: 0.0983, current_valid: 0.1190, patience: 6/50
+Epoch 82: best_valid: 0.0983, current_valid: 0.1071, patience: 7/50
+Update Epoch 83: best_train: 0.0458 best_valid: 0.0914
+Epoch 84: best_valid: 0.0914, current_valid: 0.1091, patience: 1/50
+Epoch 85: best_valid: 0.0914, current_valid: 0.1433, patience: 2/50
+Epoch 86: best_valid: 0.0914, current_valid: 0.1089, patience: 3/50
+Epoch 87: best_valid: 0.0914, current_valid: 0.1011, patience: 4/50
+Epoch 88: best_valid: 0.0914, current_valid: 0.1540, patience: 5/50
+Epoch 89: best_valid: 0.0914, current_valid: 0.1072, patience: 6/50
+Epoch 90: best_valid: 0.0914, current_valid: 0.1039, patience: 7/50
+Epoch 91: best_valid: 0.0914, current_valid: 0.1547, patience: 8/50
+Epoch 92: best_valid: 0.0914, current_valid: 0.1003, patience: 9/50
+Epoch 93: best_valid: 0.0914, current_valid: 0.1050, patience: 10/50
+Update Epoch 94: best_train: 0.0396 best_valid: 0.0855
+Epoch 95: best_valid: 0.0855, current_valid: 0.1014, patience: 1/50
+Update Epoch 96: best_train: 0.0432 best_valid: 0.0835
+Epoch 97: best_valid: 0.0835, current_valid: 0.1029, patience: 1/50
+Epoch 98: best_valid: 0.0835, current_valid: 0.1094, patience: 2/50
+Epoch 99: best_valid: 0.0835, current_valid: 0.1101, patience: 3/50
+Epoch 100: best_valid: 0.0835, current_valid: 0.1344, patience: 4/50
+Epoch 101: best_valid: 0.0835, current_valid: 0.1128, patience: 5/50
+Epoch 102: best_valid: 0.0835, current_valid: 0.1078, patience: 6/50
+Epoch 103: best_valid: 0.0835, current_valid: 0.1026, patience: 7/50
+Epoch 104: best_valid: 0.0835, current_valid: 0.0951, patience: 8/50
+Epoch 105: best_valid: 0.0835, current_valid: 0.1169, patience: 9/50
+Epoch 106: best_valid: 0.0835, current_valid: 0.0977, patience: 10/50
+Epoch 107: best_valid: 0.0835, current_valid: 0.0883, patience: 11/50
+Epoch 108: best_valid: 0.0835, current_valid: 0.0984, patience: 12/50
+Epoch 109: best_valid: 0.0835, current_valid: 0.1007, patience: 13/50
+Epoch 110: best_valid: 0.0835, current_valid: 0.1147, patience: 14/50
+Epoch 111: best_valid: 0.0835, current_valid: 0.0998, patience: 15/50
+Epoch 112: best_valid: 0.0835, current_valid: 0.1481, patience: 16/50
+Epoch 113: best_valid: 0.0835, current_valid: 0.0932, patience: 17/50
+Epoch 114: best_valid: 0.0835, current_valid: 0.1121, patience: 18/50
+Epoch 115: best_valid: 0.0835, current_valid: 0.0865, patience: 19/50
+Epoch 116: best_valid: 0.0835, current_valid: 0.0870, patience: 20/50
+Epoch 117: best_valid: 0.0835, current_valid: 0.1123, patience: 21/50
+Epoch 118: best_valid: 0.0835, current_valid: 0.0932, patience: 22/50
+Epoch 119: best_valid: 0.0835, current_valid: 0.1019, patience: 23/50
+Epoch 120: best_valid: 0.0835, current_valid: 0.0942, patience: 24/50
+Epoch 121: best_valid: 0.0835, current_valid: 0.0924, patience: 25/50
+Epoch 122: best_valid: 0.0835, current_valid: 0.0940, patience: 26/50
+Epoch 123: best_valid: 0.0835, current_valid: 0.1026, patience: 27/50
+Epoch 124: best_valid: 0.0835, current_valid: 0.0902, patience: 28/50
+Epoch 125: best_valid: 0.0835, current_valid: 0.0896, patience: 29/50
+Epoch 126: best_valid: 0.0835, current_valid: 0.0934, patience: 30/50
+Epoch 127: best_valid: 0.0835, current_valid: 0.1111, patience: 31/50
+Epoch 128: best_valid: 0.0835, current_valid: 0.1037, patience: 32/50
+Epoch 129: best_valid: 0.0835, current_valid: 0.1146, patience: 33/50
+Epoch 130: best_valid: 0.0835, current_valid: 0.0973, patience: 34/50
+Epoch 131: best_valid: 0.0835, current_valid: 0.0996, patience: 35/50
+Epoch 132: best_valid: 0.0835, current_valid: 0.0948, patience: 36/50
+Epoch 133: best_valid: 0.0835, current_valid: 0.1191, patience: 37/50
+Epoch 134: best_valid: 0.0835, current_valid: 0.1032, patience: 38/50
+Epoch 135: best_valid: 0.0835, current_valid: 0.0938, patience: 39/50
+Epoch 136: best_valid: 0.0835, current_valid: 0.0883, patience: 40/50
+Epoch 137: best_valid: 0.0835, current_valid: 0.1053, patience: 41/50
+Epoch 138: best_valid: 0.0835, current_valid: 0.1160, patience: 42/50
+Epoch 139: best_valid: 0.0835, current_valid: 0.1021, patience: 43/50
+Epoch 140: best_valid: 0.0835, current_valid: 0.0881, patience: 44/50
+Epoch 141: best_valid: 0.0835, current_valid: 0.0940, patience: 45/50
+Epoch 142: best_valid: 0.0835, current_valid: 0.1086, patience: 46/50
+Epoch 143: best_valid: 0.0835, current_valid: 0.0857, patience: 47/50
+Epoch 144: best_valid: 0.0835, current_valid: 0.0850, patience: 48/50
+Epoch 145: best_valid: 0.0835, current_valid: 0.0943, patience: 49/50
+Epoch 146: best_valid: 0.0835, current_valid: 0.0908, patience: 50/50
+Epoch 147: best_valid: 0.0835, current_valid: 0.0864, patience: 51/50
+Finished. 
+ Best validation epoch 96 with metric wmae, train 0.0432, valid 0.0835
+Seed 3
+Start training...
+Update Epoch 0: best_train: 0.9060 best_valid: 1.3245
+Update Epoch 1: best_train: 0.3864 best_valid: 0.6006
+Update Epoch 2: best_train: 0.2252 best_valid: 0.3222
+Update Epoch 3: best_train: 0.2287 best_valid: 0.2786
+Epoch 4: best_valid: 0.2786, current_valid: 0.3221, patience: 1/50
+Update Epoch 5: best_train: 0.1837 best_valid: 0.2682
+Update Epoch 6: best_train: 0.1677 best_valid: 0.2169
+Update Epoch 7: best_train: 0.1372 best_valid: 0.1920
+Epoch 8: best_valid: 0.1920, current_valid: 0.1939, patience: 1/50
+Update Epoch 9: best_train: 0.1261 best_valid: 0.1903
+Epoch 10: best_valid: 0.1903, current_valid: 0.2185, patience: 1/50
+Epoch 11: best_valid: 0.1903, current_valid: 0.2673, patience: 2/50
+Epoch 12: best_valid: 0.1903, current_valid: 0.2407, patience: 3/50
+Epoch 13: best_valid: 0.1903, current_valid: 0.1951, patience: 4/50
+Epoch 14: best_valid: 0.1903, current_valid: 0.3015, patience: 5/50
+Epoch 15: best_valid: 0.1903, current_valid: 0.2076, patience: 6/50
+Epoch 16: best_valid: 0.1903, current_valid: 0.2428, patience: 7/50
+Epoch 17: best_valid: 0.1903, current_valid: 0.2059, patience: 8/50
+Epoch 18: best_valid: 0.1903, current_valid: 0.2322, patience: 9/50
+Update Epoch 19: best_train: 0.1156 best_valid: 0.1685
+Epoch 20: best_valid: 0.1685, current_valid: 0.1871, patience: 1/50
+Update Epoch 21: best_train: 0.1011 best_valid: 0.1674
+Epoch 22: best_valid: 0.1674, current_valid: 0.2361, patience: 1/50
+Update Epoch 23: best_train: 0.1025 best_valid: 0.1601
+Update Epoch 24: best_train: 0.0993 best_valid: 0.1590
+Epoch 25: best_valid: 0.1590, current_valid: 0.1592, patience: 1/50
+Update Epoch 26: best_train: 0.1071 best_valid: 0.1572
+Update Epoch 27: best_train: 0.1004 best_valid: 0.1505
+Epoch 28: best_valid: 0.1505, current_valid: 0.1514, patience: 1/50
+Epoch 29: best_valid: 0.1505, current_valid: 0.1570, patience: 2/50
+Epoch 30: best_valid: 0.1505, current_valid: 0.1516, patience: 3/50
+Epoch 31: best_valid: 0.1505, current_valid: 0.1564, patience: 4/50
+Update Epoch 32: best_train: 0.0803 best_valid: 0.1133
+Epoch 33: best_valid: 0.1133, current_valid: 0.1336, patience: 1/50
+Epoch 34: best_valid: 0.1133, current_valid: 0.1461, patience: 2/50
+Epoch 35: best_valid: 0.1133, current_valid: 0.1222, patience: 3/50
+Epoch 36: best_valid: 0.1133, current_valid: 0.1323, patience: 4/50
+Epoch 37: best_valid: 0.1133, current_valid: 0.1486, patience: 5/50
+Epoch 38: best_valid: 0.1133, current_valid: 0.1176, patience: 6/50
+Update Epoch 39: best_train: 0.0669 best_valid: 0.1079
+Epoch 40: best_valid: 0.1079, current_valid: 0.1212, patience: 1/50
+Epoch 41: best_valid: 0.1079, current_valid: 0.1160, patience: 2/50
+Epoch 42: best_valid: 0.1079, current_valid: 0.1193, patience: 3/50
+Epoch 43: best_valid: 0.1079, current_valid: 0.1429, patience: 4/50
+Epoch 44: best_valid: 0.1079, current_valid: 0.1286, patience: 5/50
+Epoch 45: best_valid: 0.1079, current_valid: 0.1724, patience: 6/50
+Epoch 46: best_valid: 0.1079, current_valid: 0.1148, patience: 7/50
+Epoch 47: best_valid: 0.1079, current_valid: 0.1138, patience: 8/50
+Epoch 48: best_valid: 0.1079, current_valid: 0.1389, patience: 9/50
+Epoch 49: best_valid: 0.1079, current_valid: 0.1302, patience: 10/50
+Epoch 50: best_valid: 0.1079, current_valid: 0.1290, patience: 11/50
+Epoch 51: best_valid: 0.1079, current_valid: 0.1723, patience: 12/50
+Epoch 52: best_valid: 0.1079, current_valid: 0.1082, patience: 13/50
+Epoch 53: best_valid: 0.1079, current_valid: 0.1320, patience: 14/50
+Epoch 54: best_valid: 0.1079, current_valid: 0.1515, patience: 15/50
+Epoch 55: best_valid: 0.1079, current_valid: 0.1214, patience: 16/50
+Epoch 56: best_valid: 0.1079, current_valid: 0.1311, patience: 17/50
+Update Epoch 57: best_train: 0.0642 best_valid: 0.0969
+Update Epoch 58: best_train: 0.0631 best_valid: 0.0943
+Update Epoch 59: best_train: 0.0574 best_valid: 0.0935
+Epoch 60: best_valid: 0.0935, current_valid: 0.1078, patience: 1/50
+Epoch 61: best_valid: 0.0935, current_valid: 0.0984, patience: 2/50
+Epoch 62: best_valid: 0.0935, current_valid: 0.0984, patience: 3/50
+Epoch 63: best_valid: 0.0935, current_valid: 0.1126, patience: 4/50
+Epoch 64: best_valid: 0.0935, current_valid: 0.1738, patience: 5/50
+Epoch 65: best_valid: 0.0935, current_valid: 0.1389, patience: 6/50
+Epoch 66: best_valid: 0.0935, current_valid: 0.1997, patience: 7/50
+Epoch 67: best_valid: 0.0935, current_valid: 0.1011, patience: 8/50
+Epoch 68: best_valid: 0.0935, current_valid: 0.1180, patience: 9/50
+Epoch 69: best_valid: 0.0935, current_valid: 0.1152, patience: 10/50
+Epoch 70: best_valid: 0.0935, current_valid: 0.0992, patience: 11/50
+Epoch 71: best_valid: 0.0935, current_valid: 0.1768, patience: 12/50
+Epoch 72: best_valid: 0.0935, current_valid: 0.1166, patience: 13/50
+Epoch 73: best_valid: 0.0935, current_valid: 0.1017, patience: 14/50
+Update Epoch 74: best_train: 0.0488 best_valid: 0.0926
+Epoch 75: best_valid: 0.0926, current_valid: 0.1045, patience: 1/50
+Epoch 76: best_valid: 0.0926, current_valid: 0.1011, patience: 2/50
+Update Epoch 77: best_train: 0.0477 best_valid: 0.0885
+Update Epoch 78: best_train: 0.0475 best_valid: 0.0871
+Epoch 79: best_valid: 0.0871, current_valid: 0.0947, patience: 1/50
+Epoch 80: best_valid: 0.0871, current_valid: 0.0887, patience: 2/50
+Epoch 81: best_valid: 0.0871, current_valid: 0.1366, patience: 3/50
+Epoch 82: best_valid: 0.0871, current_valid: 0.1078, patience: 4/50
+Epoch 83: best_valid: 0.0871, current_valid: 0.1069, patience: 5/50
+Epoch 84: best_valid: 0.0871, current_valid: 0.0979, patience: 6/50
+Epoch 85: best_valid: 0.0871, current_valid: 0.1282, patience: 7/50
+Epoch 86: best_valid: 0.0871, current_valid: 0.1065, patience: 8/50
+Epoch 87: best_valid: 0.0871, current_valid: 0.0941, patience: 9/50
+Epoch 88: best_valid: 0.0871, current_valid: 0.1158, patience: 10/50
+Epoch 89: best_valid: 0.0871, current_valid: 0.0926, patience: 11/50
+Epoch 90: best_valid: 0.0871, current_valid: 0.1102, patience: 12/50
+Epoch 91: best_valid: 0.0871, current_valid: 0.1023, patience: 13/50
+Epoch 92: best_valid: 0.0871, current_valid: 0.1028, patience: 14/50
+Epoch 93: best_valid: 0.0871, current_valid: 0.1152, patience: 15/50
+Epoch 94: best_valid: 0.0871, current_valid: 0.1363, patience: 16/50
+Epoch 95: best_valid: 0.0871, current_valid: 0.1232, patience: 17/50
+Epoch 96: best_valid: 0.0871, current_valid: 0.1061, patience: 18/50
+Epoch 97: best_valid: 0.0871, current_valid: 0.0989, patience: 19/50
+Epoch 98: best_valid: 0.0871, current_valid: 0.1051, patience: 20/50
+Epoch 99: best_valid: 0.0871, current_valid: 0.1049, patience: 21/50
+Epoch 100: best_valid: 0.0871, current_valid: 0.0927, patience: 22/50
+Epoch 101: best_valid: 0.0871, current_valid: 0.0954, patience: 23/50
+Update Epoch 102: best_train: 0.0375 best_valid: 0.0841
+Epoch 103: best_valid: 0.0841, current_valid: 0.0924, patience: 1/50
+Epoch 104: best_valid: 0.0841, current_valid: 0.1052, patience: 2/50
+Epoch 105: best_valid: 0.0841, current_valid: 0.0978, patience: 3/50
+Epoch 106: best_valid: 0.0841, current_valid: 0.1112, patience: 4/50
+Epoch 107: best_valid: 0.0841, current_valid: 0.0945, patience: 5/50
+Epoch 108: best_valid: 0.0841, current_valid: 0.0927, patience: 6/50
+Epoch 109: best_valid: 0.0841, current_valid: 0.1018, patience: 7/50
+Epoch 110: best_valid: 0.0841, current_valid: 0.1050, patience: 8/50
+Epoch 111: best_valid: 0.0841, current_valid: 0.1064, patience: 9/50
+Epoch 112: best_valid: 0.0841, current_valid: 0.1276, patience: 10/50
+Epoch 113: best_valid: 0.0841, current_valid: 0.0899, patience: 11/50
+Epoch 114: best_valid: 0.0841, current_valid: 0.0950, patience: 12/50
+Epoch 115: best_valid: 0.0841, current_valid: 0.0890, patience: 13/50
+Epoch 116: best_valid: 0.0841, current_valid: 0.0959, patience: 14/50
+Update Epoch 117: best_train: 0.0358 best_valid: 0.0817
+Epoch 118: best_valid: 0.0817, current_valid: 0.0848, patience: 1/50
+Epoch 119: best_valid: 0.0817, current_valid: 0.0975, patience: 2/50
+Epoch 120: best_valid: 0.0817, current_valid: 0.0900, patience: 3/50
+Epoch 121: best_valid: 0.0817, current_valid: 0.0920, patience: 4/50
+Epoch 122: best_valid: 0.0817, current_valid: 0.1073, patience: 5/50
+Epoch 123: best_valid: 0.0817, current_valid: 0.0842, patience: 6/50
+Epoch 124: best_valid: 0.0817, current_valid: 0.0850, patience: 7/50
+Epoch 125: best_valid: 0.0817, current_valid: 0.0842, patience: 8/50
+Epoch 126: best_valid: 0.0817, current_valid: 0.1359, patience: 9/50
+Epoch 127: best_valid: 0.0817, current_valid: 0.0942, patience: 10/50
+Epoch 128: best_valid: 0.0817, current_valid: 0.0926, patience: 11/50
+Epoch 129: best_valid: 0.0817, current_valid: 0.0924, patience: 12/50
+Epoch 130: best_valid: 0.0817, current_valid: 0.1061, patience: 13/50
+Epoch 131: best_valid: 0.0817, current_valid: 0.0872, patience: 14/50
+Epoch 132: best_valid: 0.0817, current_valid: 0.0979, patience: 15/50
+Epoch 133: best_valid: 0.0817, current_valid: 0.1081, patience: 16/50
+Epoch 134: best_valid: 0.0817, current_valid: 0.1044, patience: 17/50
+Epoch 135: best_valid: 0.0817, current_valid: 0.0875, patience: 18/50
+Epoch 136: best_valid: 0.0817, current_valid: 0.0869, patience: 19/50
+Epoch 137: best_valid: 0.0817, current_valid: 0.1001, patience: 20/50
+Epoch 138: best_valid: 0.0817, current_valid: 0.0892, patience: 21/50
+Epoch 139: best_valid: 0.0817, current_valid: 0.0919, patience: 22/50
+Epoch 140: best_valid: 0.0817, current_valid: 0.0923, patience: 23/50
+Epoch 141: best_valid: 0.0817, current_valid: 0.0975, patience: 24/50
+Epoch 142: best_valid: 0.0817, current_valid: 0.0886, patience: 25/50
+Epoch 143: best_valid: 0.0817, current_valid: 0.0882, patience: 26/50
+Epoch 144: best_valid: 0.0817, current_valid: 0.0993, patience: 27/50
+Epoch 145: best_valid: 0.0817, current_valid: 0.0836, patience: 28/50
+Epoch 146: best_valid: 0.0817, current_valid: 0.0905, patience: 29/50
+Epoch 147: best_valid: 0.0817, current_valid: 0.0938, patience: 30/50
+Epoch 148: best_valid: 0.0817, current_valid: 0.0836, patience: 31/50
+Epoch 149: best_valid: 0.0817, current_valid: 0.0916, patience: 32/50
+Epoch 150: best_valid: 0.0817, current_valid: 0.0914, patience: 33/50
+Epoch 151: best_valid: 0.0817, current_valid: 0.1169, patience: 34/50
+Epoch 152: best_valid: 0.0817, current_valid: 0.0886, patience: 35/50
+Epoch 153: best_valid: 0.0817, current_valid: 0.0933, patience: 36/50
+Epoch 154: best_valid: 0.0817, current_valid: 0.0934, patience: 37/50
+Epoch 155: best_valid: 0.0817, current_valid: 0.0922, patience: 38/50
+Epoch 156: best_valid: 0.0817, current_valid: 0.0911, patience: 39/50
+Epoch 157: best_valid: 0.0817, current_valid: 0.1074, patience: 40/50
+Epoch 158: best_valid: 0.0817, current_valid: 0.0853, patience: 41/50
+Update Epoch 159: best_train: 0.0286 best_valid: 0.0773
+Epoch 160: best_valid: 0.0773, current_valid: 0.0866, patience: 1/50
+Epoch 161: best_valid: 0.0773, current_valid: 0.0939, patience: 2/50
+Epoch 162: best_valid: 0.0773, current_valid: 0.0869, patience: 3/50
+Epoch 163: best_valid: 0.0773, current_valid: 0.0922, patience: 4/50
+Epoch 164: best_valid: 0.0773, current_valid: 0.0851, patience: 5/50
+Epoch 165: best_valid: 0.0773, current_valid: 0.0825, patience: 6/50
+Epoch 166: best_valid: 0.0773, current_valid: 0.0949, patience: 7/50
+Epoch 167: best_valid: 0.0773, current_valid: 0.0934, patience: 8/50
+Epoch 168: best_valid: 0.0773, current_valid: 0.0876, patience: 9/50
+Epoch 169: best_valid: 0.0773, current_valid: 0.0787, patience: 10/50
+Epoch 170: best_valid: 0.0773, current_valid: 0.0894, patience: 11/50
+Epoch 171: best_valid: 0.0773, current_valid: 0.0775, patience: 12/50
+Epoch 172: best_valid: 0.0773, current_valid: 0.0879, patience: 13/50
+Epoch 173: best_valid: 0.0773, current_valid: 0.0958, patience: 14/50
+Epoch 174: best_valid: 0.0773, current_valid: 0.1029, patience: 15/50
+Epoch 175: best_valid: 0.0773, current_valid: 0.0841, patience: 16/50
+Epoch 176: best_valid: 0.0773, current_valid: 0.1022, patience: 17/50
+Epoch 177: best_valid: 0.0773, current_valid: 0.0902, patience: 18/50
+Epoch 178: best_valid: 0.0773, current_valid: 0.0814, patience: 19/50
+Epoch 179: best_valid: 0.0773, current_valid: 0.0871, patience: 20/50
+Epoch 180: best_valid: 0.0773, current_valid: 0.0904, patience: 21/50
+Epoch 181: best_valid: 0.0773, current_valid: 0.0928, patience: 22/50
+Epoch 182: best_valid: 0.0773, current_valid: 0.1031, patience: 23/50
+Epoch 183: best_valid: 0.0773, current_valid: 0.0869, patience: 24/50
+Epoch 184: best_valid: 0.0773, current_valid: 0.0968, patience: 25/50
+Epoch 185: best_valid: 0.0773, current_valid: 0.1034, patience: 26/50
+Epoch 186: best_valid: 0.0773, current_valid: 0.0879, patience: 27/50
+Epoch 187: best_valid: 0.0773, current_valid: 0.0809, patience: 28/50
+Epoch 188: best_valid: 0.0773, current_valid: 0.0893, patience: 29/50
+Epoch 189: best_valid: 0.0773, current_valid: 0.0939, patience: 30/50
+Epoch 190: best_valid: 0.0773, current_valid: 0.0793, patience: 31/50
+Epoch 191: best_valid: 0.0773, current_valid: 0.0953, patience: 32/50
+Epoch 192: best_valid: 0.0773, current_valid: 0.0850, patience: 33/50
+Epoch 193: best_valid: 0.0773, current_valid: 0.0893, patience: 34/50
+Epoch 194: best_valid: 0.0773, current_valid: 0.0849, patience: 35/50
+Epoch 195: best_valid: 0.0773, current_valid: 0.0815, patience: 36/50
+Epoch 196: best_valid: 0.0773, current_valid: 0.0811, patience: 37/50
+Epoch 197: best_valid: 0.0773, current_valid: 0.0808, patience: 38/50
+Epoch 198: best_valid: 0.0773, current_valid: 0.0891, patience: 39/50
+Epoch 199: best_valid: 0.0773, current_valid: 0.0820, patience: 40/50
+Epoch 200: best_valid: 0.0773, current_valid: 0.0831, patience: 41/50
+Epoch 201: best_valid: 0.0773, current_valid: 0.0874, patience: 42/50
+Epoch 202: best_valid: 0.0773, current_valid: 0.0839, patience: 43/50
+Epoch 203: best_valid: 0.0773, current_valid: 0.0868, patience: 44/50
+Epoch 204: best_valid: 0.0773, current_valid: 0.0858, patience: 45/50
+Epoch 205: best_valid: 0.0773, current_valid: 0.0867, patience: 46/50
+Epoch 206: best_valid: 0.0773, current_valid: 0.0924, patience: 47/50
+Epoch 207: best_valid: 0.0773, current_valid: 0.0881, patience: 48/50
+Epoch 208: best_valid: 0.0773, current_valid: 0.0820, patience: 49/50
+Epoch 209: best_valid: 0.0773, current_valid: 0.0847, patience: 50/50
+Epoch 210: best_valid: 0.0773, current_valid: 0.0903, patience: 51/50
+Finished. 
+ Best validation epoch 159 with metric wmae, train 0.0286, valid 0.0773
+Seed 4
+Start training...
+Update Epoch 0: best_train: 0.6334 best_valid: 0.9081
+Update Epoch 1: best_train: 0.4022 best_valid: 0.5351
+Update Epoch 2: best_train: 0.3014 best_valid: 0.5015
+Update Epoch 3: best_train: 0.2689 best_valid: 0.4789
+Update Epoch 4: best_train: 0.1628 best_valid: 0.2140
+Update Epoch 5: best_train: 0.1487 best_valid: 0.2060
+Epoch 6: best_valid: 0.2060, current_valid: 0.2159, patience: 1/50
+Update Epoch 7: best_train: 0.1370 best_valid: 0.1728
+Epoch 8: best_valid: 0.1728, current_valid: 0.2111, patience: 1/50
+Epoch 9: best_valid: 0.1728, current_valid: 0.2453, patience: 2/50
+Epoch 10: best_valid: 0.1728, current_valid: 0.1919, patience: 3/50
+Epoch 11: best_valid: 0.1728, current_valid: 0.2816, patience: 4/50
+Epoch 12: best_valid: 0.1728, current_valid: 0.2860, patience: 5/50
+Epoch 13: best_valid: 0.1728, current_valid: 0.1736, patience: 6/50
+Epoch 14: best_valid: 0.1728, current_valid: 0.3503, patience: 7/50
+Epoch 15: best_valid: 0.1728, current_valid: 0.1971, patience: 8/50
+Epoch 16: best_valid: 0.1728, current_valid: 0.2519, patience: 9/50
+Epoch 17: best_valid: 0.1728, current_valid: 0.2034, patience: 10/50
+Update Epoch 18: best_train: 0.1126 best_valid: 0.1728
+Update Epoch 19: best_train: 0.1048 best_valid: 0.1499
+Epoch 20: best_valid: 0.1499, current_valid: 0.1811, patience: 1/50
+Epoch 21: best_valid: 0.1499, current_valid: 0.1583, patience: 2/50
+Epoch 22: best_valid: 0.1499, current_valid: 0.2202, patience: 3/50
+Epoch 23: best_valid: 0.1499, current_valid: 0.1586, patience: 4/50
+Epoch 24: best_valid: 0.1499, current_valid: 0.2177, patience: 5/50
+Epoch 25: best_valid: 0.1499, current_valid: 0.1733, patience: 6/50
+Update Epoch 26: best_train: 0.0894 best_valid: 0.1345
+Update Epoch 27: best_train: 0.0833 best_valid: 0.1159
+Update Epoch 28: best_train: 0.0793 best_valid: 0.1126
+Epoch 29: best_valid: 0.1126, current_valid: 0.1573, patience: 1/50
+Epoch 30: best_valid: 0.1126, current_valid: 0.1502, patience: 2/50
+Epoch 31: best_valid: 0.1126, current_valid: 0.1244, patience: 3/50
+Epoch 32: best_valid: 0.1126, current_valid: 0.1557, patience: 4/50
+Epoch 33: best_valid: 0.1126, current_valid: 0.1276, patience: 5/50
+Epoch 34: best_valid: 0.1126, current_valid: 0.1598, patience: 6/50
+Epoch 35: best_valid: 0.1126, current_valid: 0.1730, patience: 7/50
+Epoch 36: best_valid: 0.1126, current_valid: 0.1259, patience: 8/50
+Epoch 37: best_valid: 0.1126, current_valid: 0.1248, patience: 9/50
+Epoch 38: best_valid: 0.1126, current_valid: 0.1200, patience: 10/50
+Epoch 39: best_valid: 0.1126, current_valid: 0.1321, patience: 11/50
+Epoch 40: best_valid: 0.1126, current_valid: 0.2634, patience: 12/50
+Epoch 41: best_valid: 0.1126, current_valid: 0.1346, patience: 13/50
+Epoch 42: best_valid: 0.1126, current_valid: 0.1272, patience: 14/50
+Update Epoch 43: best_train: 0.0631 best_valid: 0.1109
+Update Epoch 44: best_train: 0.0629 best_valid: 0.1035
+Epoch 45: best_valid: 0.1035, current_valid: 0.1350, patience: 1/50
+Epoch 46: best_valid: 0.1035, current_valid: 0.1041, patience: 2/50
+Epoch 47: best_valid: 0.1035, current_valid: 0.1221, patience: 3/50
+Epoch 48: best_valid: 0.1035, current_valid: 0.1111, patience: 4/50
+Epoch 49: best_valid: 0.1035, current_valid: 0.1089, patience: 5/50
+Epoch 50: best_valid: 0.1035, current_valid: 0.1352, patience: 6/50
+Epoch 51: best_valid: 0.1035, current_valid: 0.1102, patience: 7/50
+Epoch 52: best_valid: 0.1035, current_valid: 0.1282, patience: 8/50
+Epoch 53: best_valid: 0.1035, current_valid: 0.1544, patience: 9/50
+Epoch 54: best_valid: 0.1035, current_valid: 0.1344, patience: 10/50
+Epoch 55: best_valid: 0.1035, current_valid: 0.1054, patience: 11/50
+Epoch 56: best_valid: 0.1035, current_valid: 0.1112, patience: 12/50
+Epoch 57: best_valid: 0.1035, current_valid: 0.1238, patience: 13/50
+Epoch 58: best_valid: 0.1035, current_valid: 0.1133, patience: 14/50
+Epoch 59: best_valid: 0.1035, current_valid: 0.1327, patience: 15/50
+Epoch 60: best_valid: 0.1035, current_valid: 0.1290, patience: 16/50
+Epoch 61: best_valid: 0.1035, current_valid: 0.1223, patience: 17/50
+Epoch 62: best_valid: 0.1035, current_valid: 0.1164, patience: 18/50
+Epoch 63: best_valid: 0.1035, current_valid: 0.1130, patience: 19/50
+Epoch 64: best_valid: 0.1035, current_valid: 0.1091, patience: 20/50
+Epoch 65: best_valid: 0.1035, current_valid: 0.1266, patience: 21/50
+Epoch 66: best_valid: 0.1035, current_valid: 0.1832, patience: 22/50
+Update Epoch 67: best_train: 0.0523 best_valid: 0.1035
+Update Epoch 68: best_train: 0.0521 best_valid: 0.1029
+Epoch 69: best_valid: 0.1029, current_valid: 0.1071, patience: 1/50
+Epoch 70: best_valid: 0.1029, current_valid: 0.1084, patience: 2/50
+Epoch 71: best_valid: 0.1029, current_valid: 0.1076, patience: 3/50
+Epoch 72: best_valid: 0.1029, current_valid: 0.1383, patience: 4/50
+Epoch 73: best_valid: 0.1029, current_valid: 0.1084, patience: 5/50
+Epoch 74: best_valid: 0.1029, current_valid: 0.1135, patience: 6/50
+Update Epoch 75: best_train: 0.0460 best_valid: 0.0832
+Epoch 76: best_valid: 0.0832, current_valid: 0.1125, patience: 1/50
+Epoch 77: best_valid: 0.0832, current_valid: 0.1132, patience: 2/50
+Epoch 78: best_valid: 0.0832, current_valid: 0.1021, patience: 3/50
+Epoch 79: best_valid: 0.0832, current_valid: 0.1087, patience: 4/50
+Epoch 80: best_valid: 0.0832, current_valid: 0.0999, patience: 5/50
+Epoch 81: best_valid: 0.0832, current_valid: 0.1149, patience: 6/50
+Epoch 82: best_valid: 0.0832, current_valid: 0.1141, patience: 7/50
+Epoch 83: best_valid: 0.0832, current_valid: 0.0941, patience: 8/50
+Epoch 84: best_valid: 0.0832, current_valid: 0.1551, patience: 9/50
+Epoch 85: best_valid: 0.0832, current_valid: 0.1017, patience: 10/50
+Epoch 86: best_valid: 0.0832, current_valid: 0.0973, patience: 11/50
+Epoch 87: best_valid: 0.0832, current_valid: 0.0994, patience: 12/50
+Epoch 88: best_valid: 0.0832, current_valid: 0.1035, patience: 13/50
+Epoch 89: best_valid: 0.0832, current_valid: 0.1200, patience: 14/50
+Epoch 90: best_valid: 0.0832, current_valid: 0.0938, patience: 15/50
+Epoch 91: best_valid: 0.0832, current_valid: 0.1098, patience: 16/50
+Epoch 92: best_valid: 0.0832, current_valid: 0.0890, patience: 17/50
+Epoch 93: best_valid: 0.0832, current_valid: 0.1588, patience: 18/50
+Epoch 94: best_valid: 0.0832, current_valid: 0.0853, patience: 19/50
+Epoch 95: best_valid: 0.0832, current_valid: 0.0972, patience: 20/50
+Epoch 96: best_valid: 0.0832, current_valid: 0.0985, patience: 21/50
+Epoch 97: best_valid: 0.0832, current_valid: 0.1031, patience: 22/50
+Epoch 98: best_valid: 0.0832, current_valid: 0.0855, patience: 23/50
+Epoch 99: best_valid: 0.0832, current_valid: 0.1018, patience: 24/50
+Epoch 100: best_valid: 0.0832, current_valid: 0.0832, patience: 25/50
+Epoch 101: best_valid: 0.0832, current_valid: 0.0857, patience: 26/50
+Epoch 102: best_valid: 0.0832, current_valid: 0.0866, patience: 27/50
+Epoch 103: best_valid: 0.0832, current_valid: 0.0842, patience: 28/50
+Update Epoch 104: best_train: 0.0358 best_valid: 0.0830
+Epoch 105: best_valid: 0.0830, current_valid: 0.1035, patience: 1/50
+Epoch 106: best_valid: 0.0830, current_valid: 0.0957, patience: 2/50
+Epoch 107: best_valid: 0.0830, current_valid: 0.1082, patience: 3/50
+Epoch 108: best_valid: 0.0830, current_valid: 0.0947, patience: 4/50
+Epoch 109: best_valid: 0.0830, current_valid: 0.1065, patience: 5/50
+Epoch 110: best_valid: 0.0830, current_valid: 0.1067, patience: 6/50
+Epoch 111: best_valid: 0.0830, current_valid: 0.0884, patience: 7/50
+Epoch 112: best_valid: 0.0830, current_valid: 0.1001, patience: 8/50
+Epoch 113: best_valid: 0.0830, current_valid: 0.0878, patience: 9/50
+Epoch 114: best_valid: 0.0830, current_valid: 0.1125, patience: 10/50
+Epoch 115: best_valid: 0.0830, current_valid: 0.0930, patience: 11/50
+Epoch 116: best_valid: 0.0830, current_valid: 0.1063, patience: 12/50
+Epoch 117: best_valid: 0.0830, current_valid: 0.1229, patience: 13/50
+Epoch 118: best_valid: 0.0830, current_valid: 0.1299, patience: 14/50
+Epoch 119: best_valid: 0.0830, current_valid: 0.0918, patience: 15/50
+Epoch 120: best_valid: 0.0830, current_valid: 0.1066, patience: 16/50
+Epoch 121: best_valid: 0.0830, current_valid: 0.0857, patience: 17/50
+Epoch 122: best_valid: 0.0830, current_valid: 0.0993, patience: 18/50
+Epoch 123: best_valid: 0.0830, current_valid: 0.1062, patience: 19/50
+Epoch 124: best_valid: 0.0830, current_valid: 0.0876, patience: 20/50
+Epoch 125: best_valid: 0.0830, current_valid: 0.0884, patience: 21/50
+Update Epoch 126: best_train: 0.0362 best_valid: 0.0816
+Update Epoch 127: best_train: 0.0382 best_valid: 0.0777
+Epoch 128: best_valid: 0.0777, current_valid: 0.1024, patience: 1/50
+Epoch 129: best_valid: 0.0777, current_valid: 0.0898, patience: 2/50
+Epoch 130: best_valid: 0.0777, current_valid: 0.0937, patience: 3/50
+Epoch 131: best_valid: 0.0777, current_valid: 0.0964, patience: 4/50
+Epoch 132: best_valid: 0.0777, current_valid: 0.0943, patience: 5/50
+Epoch 133: best_valid: 0.0777, current_valid: 0.1030, patience: 6/50
+Epoch 134: best_valid: 0.0777, current_valid: 0.0966, patience: 7/50
+Epoch 135: best_valid: 0.0777, current_valid: 0.0882, patience: 8/50
+Epoch 136: best_valid: 0.0777, current_valid: 0.0909, patience: 9/50
+Epoch 137: best_valid: 0.0777, current_valid: 0.0911, patience: 10/50
+Epoch 138: best_valid: 0.0777, current_valid: 0.1081, patience: 11/50
+Epoch 139: best_valid: 0.0777, current_valid: 0.0948, patience: 12/50
+Epoch 140: best_valid: 0.0777, current_valid: 0.0812, patience: 13/50
+Epoch 141: best_valid: 0.0777, current_valid: 0.0887, patience: 14/50
+Epoch 142: best_valid: 0.0777, current_valid: 0.0783, patience: 15/50
+Epoch 143: best_valid: 0.0777, current_valid: 0.0863, patience: 16/50
+Epoch 144: best_valid: 0.0777, current_valid: 0.1153, patience: 17/50
+Epoch 145: best_valid: 0.0777, current_valid: 0.0956, patience: 18/50
+Epoch 146: best_valid: 0.0777, current_valid: 0.0855, patience: 19/50
+Epoch 147: best_valid: 0.0777, current_valid: 0.0785, patience: 20/50
+Epoch 148: best_valid: 0.0777, current_valid: 0.0948, patience: 21/50
+Epoch 149: best_valid: 0.0777, current_valid: 0.1010, patience: 22/50
+Epoch 150: best_valid: 0.0777, current_valid: 0.0878, patience: 23/50
+Epoch 151: best_valid: 0.0777, current_valid: 0.0888, patience: 24/50
+Epoch 152: best_valid: 0.0777, current_valid: 0.0857, patience: 25/50
+Epoch 153: best_valid: 0.0777, current_valid: 0.0925, patience: 26/50
+Epoch 154: best_valid: 0.0777, current_valid: 0.0880, patience: 27/50
+Epoch 155: best_valid: 0.0777, current_valid: 0.1022, patience: 28/50
+Epoch 156: best_valid: 0.0777, current_valid: 0.0875, patience: 29/50
+Epoch 157: best_valid: 0.0777, current_valid: 0.0869, patience: 30/50
+Epoch 158: best_valid: 0.0777, current_valid: 0.0867, patience: 31/50
+Epoch 159: best_valid: 0.0777, current_valid: 0.0782, patience: 32/50
+Epoch 160: best_valid: 0.0777, current_valid: 0.0949, patience: 33/50
+Epoch 161: best_valid: 0.0777, current_valid: 0.1189, patience: 34/50
+Epoch 162: best_valid: 0.0777, current_valid: 0.0969, patience: 35/50
+Epoch 163: best_valid: 0.0777, current_valid: 0.0889, patience: 36/50
+Epoch 164: best_valid: 0.0777, current_valid: 0.0855, patience: 37/50
+Epoch 165: best_valid: 0.0777, current_valid: 0.0864, patience: 38/50
+Epoch 166: best_valid: 0.0777, current_valid: 0.0819, patience: 39/50
+Epoch 167: best_valid: 0.0777, current_valid: 0.0864, patience: 40/50
+Epoch 168: best_valid: 0.0777, current_valid: 0.0861, patience: 41/50
+Epoch 169: best_valid: 0.0777, current_valid: 0.0888, patience: 42/50
+Epoch 170: best_valid: 0.0777, current_valid: 0.0853, patience: 43/50
+Epoch 171: best_valid: 0.0777, current_valid: 0.0900, patience: 44/50
+Epoch 172: best_valid: 0.0777, current_valid: 0.1064, patience: 45/50
+Epoch 173: best_valid: 0.0777, current_valid: 0.0875, patience: 46/50
+Epoch 174: best_valid: 0.0777, current_valid: 0.0918, patience: 47/50
+Epoch 175: best_valid: 0.0777, current_valid: 0.0888, patience: 48/50
+Epoch 176: best_valid: 0.0777, current_valid: 0.0851, patience: 49/50
+Epoch 177: best_valid: 0.0777, current_valid: 0.0865, patience: 50/50
+Epoch 178: best_valid: 0.0777, current_valid: 0.0877, patience: 51/50
+Finished. 
+ Best validation epoch 127 with metric wmae, train 0.0382, valid 0.0777
+Seed 5
+Start training...
+Update Epoch 0: best_train: 0.8176 best_valid: 1.2922
+Update Epoch 1: best_train: 0.3158 best_valid: 0.4390
+Update Epoch 2: best_train: 0.2505 best_valid: 0.3343
+Update Epoch 3: best_train: 0.1960 best_valid: 0.2685
+Update Epoch 4: best_train: 0.1693 best_valid: 0.2557
+Update Epoch 5: best_train: 0.1734 best_valid: 0.2169
+Update Epoch 6: best_train: 0.1667 best_valid: 0.2161
+Update Epoch 7: best_train: 0.1284 best_valid: 0.1530
+Epoch 8: best_valid: 0.1530, current_valid: 0.2076, patience: 1/50
+Epoch 9: best_valid: 0.1530, current_valid: 0.1810, patience: 2/50
+Epoch 10: best_valid: 0.1530, current_valid: 0.2070, patience: 3/50
+Epoch 11: best_valid: 0.1530, current_valid: 0.2985, patience: 4/50
+Epoch 12: best_valid: 0.1530, current_valid: 0.2004, patience: 5/50
+Epoch 13: best_valid: 0.1530, current_valid: 0.1749, patience: 6/50
+Epoch 14: best_valid: 0.1530, current_valid: 0.2773, patience: 7/50
+Epoch 15: best_valid: 0.1530, current_valid: 0.2324, patience: 8/50
+Epoch 16: best_valid: 0.1530, current_valid: 0.2329, patience: 9/50
+Epoch 17: best_valid: 0.1530, current_valid: 0.2092, patience: 10/50
+Epoch 18: best_valid: 0.1530, current_valid: 0.2197, patience: 11/50
+Epoch 19: best_valid: 0.1530, current_valid: 0.2073, patience: 12/50
+Epoch 20: best_valid: 0.1530, current_valid: 0.1890, patience: 13/50
+Epoch 21: best_valid: 0.1530, current_valid: 0.1941, patience: 14/50
+Epoch 22: best_valid: 0.1530, current_valid: 0.1667, patience: 15/50
+Update Epoch 23: best_train: 0.1023 best_valid: 0.1490
+Epoch 24: best_valid: 0.1490, current_valid: 0.1544, patience: 1/50
+Epoch 25: best_valid: 0.1490, current_valid: 0.1547, patience: 2/50
+Update Epoch 26: best_train: 0.0857 best_valid: 0.1217
+Epoch 27: best_valid: 0.1217, current_valid: 0.1500, patience: 1/50
+Epoch 28: best_valid: 0.1217, current_valid: 0.2153, patience: 2/50
+Epoch 29: best_valid: 0.1217, current_valid: 0.1493, patience: 3/50
+Epoch 30: best_valid: 0.1217, current_valid: 0.2011, patience: 4/50
+Epoch 31: best_valid: 0.1217, current_valid: 0.1341, patience: 5/50
+Epoch 32: best_valid: 0.1217, current_valid: 0.1899, patience: 6/50
+Epoch 33: best_valid: 0.1217, current_valid: 0.1987, patience: 7/50
+Epoch 34: best_valid: 0.1217, current_valid: 0.1751, patience: 8/50
+Epoch 35: best_valid: 0.1217, current_valid: 0.1757, patience: 9/50
+Epoch 36: best_valid: 0.1217, current_valid: 0.1341, patience: 10/50
+Update Epoch 37: best_train: 0.0806 best_valid: 0.1202
+Epoch 38: best_valid: 0.1202, current_valid: 0.1424, patience: 1/50
+Epoch 39: best_valid: 0.1202, current_valid: 0.2328, patience: 2/50
+Epoch 40: best_valid: 0.1202, current_valid: 0.1544, patience: 3/50
+Epoch 41: best_valid: 0.1202, current_valid: 0.1741, patience: 4/50
+Epoch 42: best_valid: 0.1202, current_valid: 0.1659, patience: 5/50
+Update Epoch 43: best_train: 0.0770 best_valid: 0.1185
+Epoch 44: best_valid: 0.1185, current_valid: 0.1575, patience: 1/50
+Epoch 45: best_valid: 0.1185, current_valid: 0.2598, patience: 2/50
+Epoch 46: best_valid: 0.1185, current_valid: 0.1916, patience: 3/50
+Epoch 47: best_valid: 0.1185, current_valid: 0.1702, patience: 4/50
+Epoch 48: best_valid: 0.1185, current_valid: 0.1391, patience: 5/50
+Epoch 49: best_valid: 0.1185, current_valid: 0.1384, patience: 6/50
+Update Epoch 50: best_train: 0.0654 best_valid: 0.1170
+Update Epoch 51: best_train: 0.0612 best_valid: 0.1040
+Epoch 52: best_valid: 0.1040, current_valid: 0.1094, patience: 1/50
+Epoch 53: best_valid: 0.1040, current_valid: 0.1285, patience: 2/50
+Epoch 54: best_valid: 0.1040, current_valid: 0.1596, patience: 3/50
+Epoch 55: best_valid: 0.1040, current_valid: 0.1130, patience: 4/50
+Epoch 56: best_valid: 0.1040, current_valid: 0.1235, patience: 5/50
+Epoch 57: best_valid: 0.1040, current_valid: 0.1064, patience: 6/50
+Update Epoch 58: best_train: 0.0579 best_valid: 0.1038
+Epoch 59: best_valid: 0.1038, current_valid: 0.1190, patience: 1/50
+Epoch 60: best_valid: 0.1038, current_valid: 0.1133, patience: 2/50
+Epoch 61: best_valid: 0.1038, current_valid: 0.1319, patience: 3/50
+Epoch 62: best_valid: 0.1038, current_valid: 0.1261, patience: 4/50
+Epoch 63: best_valid: 0.1038, current_valid: 0.1647, patience: 5/50
+Epoch 64: best_valid: 0.1038, current_valid: 0.1130, patience: 6/50
+Epoch 65: best_valid: 0.1038, current_valid: 0.1069, patience: 7/50
+Update Epoch 66: best_train: 0.0502 best_valid: 0.0957
+Epoch 67: best_valid: 0.0957, current_valid: 0.1184, patience: 1/50
+Epoch 68: best_valid: 0.0957, current_valid: 0.0976, patience: 2/50
+Epoch 69: best_valid: 0.0957, current_valid: 0.1145, patience: 3/50
+Epoch 70: best_valid: 0.0957, current_valid: 0.1047, patience: 4/50
+Epoch 71: best_valid: 0.0957, current_valid: 0.1173, patience: 5/50
+Epoch 72: best_valid: 0.0957, current_valid: 0.1053, patience: 6/50
+Epoch 73: best_valid: 0.0957, current_valid: 0.0994, patience: 7/50
+Update Epoch 74: best_train: 0.0553 best_valid: 0.0945
+Epoch 75: best_valid: 0.0945, current_valid: 0.0962, patience: 1/50
+Epoch 76: best_valid: 0.0945, current_valid: 0.1155, patience: 2/50
+Epoch 77: best_valid: 0.0945, current_valid: 0.1308, patience: 3/50
+Epoch 78: best_valid: 0.0945, current_valid: 0.1132, patience: 4/50
+Epoch 79: best_valid: 0.0945, current_valid: 0.1083, patience: 5/50
+Epoch 80: best_valid: 0.0945, current_valid: 0.1559, patience: 6/50
+Epoch 81: best_valid: 0.0945, current_valid: 0.1060, patience: 7/50
+Epoch 82: best_valid: 0.0945, current_valid: 0.1045, patience: 8/50
+Epoch 83: best_valid: 0.0945, current_valid: 0.1000, patience: 9/50
+Epoch 84: best_valid: 0.0945, current_valid: 0.1005, patience: 10/50
+Epoch 85: best_valid: 0.0945, current_valid: 0.1024, patience: 11/50
+Epoch 86: best_valid: 0.0945, current_valid: 0.1182, patience: 12/50
+Epoch 87: best_valid: 0.0945, current_valid: 0.1016, patience: 13/50
+Epoch 88: best_valid: 0.0945, current_valid: 0.1404, patience: 14/50
+Epoch 89: best_valid: 0.0945, current_valid: 0.1063, patience: 15/50
+Epoch 90: best_valid: 0.0945, current_valid: 0.1190, patience: 16/50
+Epoch 91: best_valid: 0.0945, current_valid: 0.0977, patience: 17/50
+Epoch 92: best_valid: 0.0945, current_valid: 0.1062, patience: 18/50
+Epoch 93: best_valid: 0.0945, current_valid: 0.1083, patience: 19/50
+Epoch 94: best_valid: 0.0945, current_valid: 0.1093, patience: 20/50
+Epoch 95: best_valid: 0.0945, current_valid: 0.1084, patience: 21/50
+Epoch 96: best_valid: 0.0945, current_valid: 0.0966, patience: 22/50
+Update Epoch 97: best_train: 0.0455 best_valid: 0.0937
+Epoch 98: best_valid: 0.0937, current_valid: 0.1146, patience: 1/50
+Epoch 99: best_valid: 0.0937, current_valid: 0.1083, patience: 2/50
+Epoch 100: best_valid: 0.0937, current_valid: 0.1051, patience: 3/50
+Epoch 101: best_valid: 0.0937, current_valid: 0.0997, patience: 4/50
+Epoch 102: best_valid: 0.0937, current_valid: 0.0988, patience: 5/50
+Epoch 103: best_valid: 0.0937, current_valid: 0.0941, patience: 6/50
+Epoch 104: best_valid: 0.0937, current_valid: 0.1075, patience: 7/50
+Epoch 105: best_valid: 0.0937, current_valid: 0.1092, patience: 8/50
+Update Epoch 106: best_train: 0.0389 best_valid: 0.0902
+Epoch 107: best_valid: 0.0902, current_valid: 0.0962, patience: 1/50
+Epoch 108: best_valid: 0.0902, current_valid: 0.0922, patience: 2/50
+Epoch 109: best_valid: 0.0902, current_valid: 0.1093, patience: 3/50
+Epoch 110: best_valid: 0.0902, current_valid: 0.1059, patience: 4/50
+Update Epoch 111: best_train: 0.0395 best_valid: 0.0803
+Epoch 112: best_valid: 0.0803, current_valid: 0.1052, patience: 1/50
+Epoch 113: best_valid: 0.0803, current_valid: 0.1534, patience: 2/50
+Epoch 114: best_valid: 0.0803, current_valid: 0.1013, patience: 3/50
+Epoch 115: best_valid: 0.0803, current_valid: 0.0873, patience: 4/50
+Epoch 116: best_valid: 0.0803, current_valid: 0.1006, patience: 5/50
+Epoch 117: best_valid: 0.0803, current_valid: 0.1017, patience: 6/50
+Epoch 118: best_valid: 0.0803, current_valid: 0.0970, patience: 7/50
+Epoch 119: best_valid: 0.0803, current_valid: 0.0910, patience: 8/50
+Epoch 120: best_valid: 0.0803, current_valid: 0.0876, patience: 9/50
+Epoch 121: best_valid: 0.0803, current_valid: 0.0877, patience: 10/50
+Epoch 122: best_valid: 0.0803, current_valid: 0.0846, patience: 11/50
+Epoch 123: best_valid: 0.0803, current_valid: 0.1089, patience: 12/50
+Epoch 124: best_valid: 0.0803, current_valid: 0.0953, patience: 13/50
+Epoch 125: best_valid: 0.0803, current_valid: 0.1148, patience: 14/50
+Epoch 126: best_valid: 0.0803, current_valid: 0.0930, patience: 15/50
+Epoch 127: best_valid: 0.0803, current_valid: 0.0830, patience: 16/50
+Epoch 128: best_valid: 0.0803, current_valid: 0.0892, patience: 17/50
+Epoch 129: best_valid: 0.0803, current_valid: 0.0940, patience: 18/50
+Epoch 130: best_valid: 0.0803, current_valid: 0.1001, patience: 19/50
+Epoch 131: best_valid: 0.0803, current_valid: 0.0955, patience: 20/50
+Epoch 132: best_valid: 0.0803, current_valid: 0.0911, patience: 21/50
+Epoch 133: best_valid: 0.0803, current_valid: 0.1023, patience: 22/50
+Epoch 134: best_valid: 0.0803, current_valid: 0.1013, patience: 23/50
+Epoch 135: best_valid: 0.0803, current_valid: 0.1082, patience: 24/50
+Epoch 136: best_valid: 0.0803, current_valid: 0.0926, patience: 25/50
+Epoch 137: best_valid: 0.0803, current_valid: 0.1010, patience: 26/50
+Epoch 138: best_valid: 0.0803, current_valid: 0.1011, patience: 27/50
+Epoch 139: best_valid: 0.0803, current_valid: 0.1135, patience: 28/50
+Epoch 140: best_valid: 0.0803, current_valid: 0.1059, patience: 29/50
+Epoch 141: best_valid: 0.0803, current_valid: 0.1157, patience: 30/50
+Epoch 142: best_valid: 0.0803, current_valid: 0.0926, patience: 31/50
+Epoch 143: best_valid: 0.0803, current_valid: 0.1022, patience: 32/50
+Epoch 144: best_valid: 0.0803, current_valid: 0.0894, patience: 33/50
+Epoch 145: best_valid: 0.0803, current_valid: 0.1173, patience: 34/50
+Epoch 146: best_valid: 0.0803, current_valid: 0.1074, patience: 35/50
+Epoch 147: best_valid: 0.0803, current_valid: 0.1089, patience: 36/50
+Epoch 148: best_valid: 0.0803, current_valid: 0.0909, patience: 37/50
+Epoch 149: best_valid: 0.0803, current_valid: 0.1012, patience: 38/50
+Epoch 150: best_valid: 0.0803, current_valid: 0.0860, patience: 39/50
+Epoch 151: best_valid: 0.0803, current_valid: 0.0861, patience: 40/50
+Epoch 152: best_valid: 0.0803, current_valid: 0.0928, patience: 41/50
+Epoch 153: best_valid: 0.0803, current_valid: 0.1007, patience: 42/50
+Epoch 154: best_valid: 0.0803, current_valid: 0.0861, patience: 43/50
+Epoch 155: best_valid: 0.0803, current_valid: 0.0875, patience: 44/50
+Epoch 156: best_valid: 0.0803, current_valid: 0.1064, patience: 45/50
+Epoch 157: best_valid: 0.0803, current_valid: 0.0920, patience: 46/50
+Epoch 158: best_valid: 0.0803, current_valid: 0.0939, patience: 47/50
+Epoch 159: best_valid: 0.0803, current_valid: 0.0911, patience: 48/50
+Epoch 160: best_valid: 0.0803, current_valid: 0.0918, patience: 49/50
+Epoch 161: best_valid: 0.0803, current_valid: 0.0888, patience: 50/50
+Epoch 162: best_valid: 0.0803, current_valid: 0.0961, patience: 51/50
+Finished. 
+ Best validation epoch 111 with metric wmae, train 0.0395, valid 0.0803
+Seed 6
+Start training...
+Update Epoch 0: best_train: 0.7766 best_valid: 0.9927
+Epoch 1: best_valid: 0.9927, current_valid: 1.1615, patience: 1/50
+Update Epoch 2: best_train: 0.4199 best_valid: 0.9106
+Update Epoch 3: best_train: 0.2967 best_valid: 0.4659
+Update Epoch 4: best_train: 0.1864 best_valid: 0.2569
+Epoch 5: best_valid: 0.2569, current_valid: 0.3144, patience: 1/50
+Update Epoch 6: best_train: 0.1851 best_valid: 0.2367
+Update Epoch 7: best_train: 0.1321 best_valid: 0.2074
+Epoch 8: best_valid: 0.2074, current_valid: 0.2388, patience: 1/50
+Epoch 9: best_valid: 0.2074, current_valid: 0.2563, patience: 2/50
+Epoch 10: best_valid: 0.2074, current_valid: 0.2637, patience: 3/50
+Epoch 11: best_valid: 0.2074, current_valid: 0.2145, patience: 4/50
+Epoch 12: best_valid: 0.2074, current_valid: 0.2296, patience: 5/50
+Update Epoch 13: best_train: 0.1264 best_valid: 0.1891
+Epoch 14: best_valid: 0.1891, current_valid: 0.2099, patience: 1/50
+Update Epoch 15: best_train: 0.1404 best_valid: 0.1867
+Epoch 16: best_valid: 0.1867, current_valid: 0.2680, patience: 1/50
+Update Epoch 17: best_train: 0.1324 best_valid: 0.1858
+Epoch 18: best_valid: 0.1858, current_valid: 0.1936, patience: 1/50
+Epoch 19: best_valid: 0.1858, current_valid: 0.2677, patience: 2/50
+Epoch 20: best_valid: 0.1858, current_valid: 0.2455, patience: 3/50
+Epoch 21: best_valid: 0.1858, current_valid: 0.2139, patience: 4/50
+Update Epoch 22: best_train: 0.1135 best_valid: 0.1809
+Update Epoch 23: best_train: 0.1061 best_valid: 0.1510
+Epoch 24: best_valid: 0.1510, current_valid: 0.1527, patience: 1/50
+Update Epoch 25: best_train: 0.0938 best_valid: 0.1424
+Epoch 26: best_valid: 0.1424, current_valid: 0.1885, patience: 1/50
+Epoch 27: best_valid: 0.1424, current_valid: 0.1473, patience: 2/50
+Epoch 28: best_valid: 0.1424, current_valid: 0.1500, patience: 3/50
+Epoch 29: best_valid: 0.1424, current_valid: 0.1538, patience: 4/50
+Update Epoch 30: best_train: 0.0832 best_valid: 0.1341
+Epoch 31: best_valid: 0.1341, current_valid: 0.1447, patience: 1/50
+Update Epoch 32: best_train: 0.0848 best_valid: 0.1337
+Epoch 33: best_valid: 0.1337, current_valid: 0.1406, patience: 1/50
+Epoch 34: best_valid: 0.1337, current_valid: 0.1692, patience: 2/50
+Update Epoch 35: best_train: 0.0747 best_valid: 0.1189
+Epoch 36: best_valid: 0.1189, current_valid: 0.1248, patience: 1/50
+Epoch 37: best_valid: 0.1189, current_valid: 0.1442, patience: 2/50
+Epoch 38: best_valid: 0.1189, current_valid: 0.1395, patience: 3/50
+Epoch 39: best_valid: 0.1189, current_valid: 0.1360, patience: 4/50
+Epoch 40: best_valid: 0.1189, current_valid: 0.1901, patience: 5/50
+Epoch 41: best_valid: 0.1189, current_valid: 0.1217, patience: 6/50
+Epoch 42: best_valid: 0.1189, current_valid: 0.1366, patience: 7/50
+Epoch 43: best_valid: 0.1189, current_valid: 0.1219, patience: 8/50
+Epoch 44: best_valid: 0.1189, current_valid: 0.1484, patience: 9/50
+Update Epoch 45: best_train: 0.0749 best_valid: 0.1163
+Epoch 46: best_valid: 0.1163, current_valid: 0.1388, patience: 1/50
+Epoch 47: best_valid: 0.1163, current_valid: 0.1330, patience: 2/50
+Update Epoch 48: best_train: 0.0683 best_valid: 0.1115
+Epoch 49: best_valid: 0.1115, current_valid: 0.1397, patience: 1/50
+Epoch 50: best_valid: 0.1115, current_valid: 0.1185, patience: 2/50
+Epoch 51: best_valid: 0.1115, current_valid: 0.1269, patience: 3/50
+Epoch 52: best_valid: 0.1115, current_valid: 0.1316, patience: 4/50
+Update Epoch 53: best_train: 0.0549 best_valid: 0.1090
+Epoch 54: best_valid: 0.1090, current_valid: 0.1610, patience: 1/50
+Epoch 55: best_valid: 0.1090, current_valid: 0.1550, patience: 2/50
+Epoch 56: best_valid: 0.1090, current_valid: 0.1119, patience: 3/50
+Update Epoch 57: best_train: 0.0631 best_valid: 0.0998
+Epoch 58: best_valid: 0.0998, current_valid: 0.1458, patience: 1/50
+Epoch 59: best_valid: 0.0998, current_valid: 0.1124, patience: 2/50
+Epoch 60: best_valid: 0.0998, current_valid: 0.1203, patience: 3/50
+Epoch 61: best_valid: 0.0998, current_valid: 0.1232, patience: 4/50
+Epoch 62: best_valid: 0.0998, current_valid: 0.1280, patience: 5/50
+Epoch 63: best_valid: 0.0998, current_valid: 0.1214, patience: 6/50
+Epoch 64: best_valid: 0.0998, current_valid: 0.1167, patience: 7/50
+Epoch 65: best_valid: 0.0998, current_valid: 0.1219, patience: 8/50
+Epoch 66: best_valid: 0.0998, current_valid: 0.1128, patience: 9/50
+Epoch 67: best_valid: 0.0998, current_valid: 0.1132, patience: 10/50
+Update Epoch 68: best_train: 0.0499 best_valid: 0.0901
+Epoch 69: best_valid: 0.0901, current_valid: 0.1225, patience: 1/50
+Epoch 70: best_valid: 0.0901, current_valid: 0.1005, patience: 2/50
+Epoch 71: best_valid: 0.0901, current_valid: 0.0910, patience: 3/50
+Update Epoch 72: best_train: 0.0462 best_valid: 0.0866
+Epoch 73: best_valid: 0.0866, current_valid: 0.1149, patience: 1/50
+Epoch 74: best_valid: 0.0866, current_valid: 0.0882, patience: 2/50
+Epoch 75: best_valid: 0.0866, current_valid: 0.0894, patience: 3/50
+Epoch 76: best_valid: 0.0866, current_valid: 0.0972, patience: 4/50
+Epoch 77: best_valid: 0.0866, current_valid: 0.1125, patience: 5/50
+Epoch 78: best_valid: 0.0866, current_valid: 0.0916, patience: 6/50
+Epoch 79: best_valid: 0.0866, current_valid: 0.1026, patience: 7/50
+Epoch 80: best_valid: 0.0866, current_valid: 0.1375, patience: 8/50
+Epoch 81: best_valid: 0.0866, current_valid: 0.1254, patience: 9/50
+Epoch 82: best_valid: 0.0866, current_valid: 0.1252, patience: 10/50
+Epoch 83: best_valid: 0.0866, current_valid: 0.0986, patience: 11/50
+Epoch 84: best_valid: 0.0866, current_valid: 0.1077, patience: 12/50
+Epoch 85: best_valid: 0.0866, current_valid: 0.0990, patience: 13/50
+Epoch 86: best_valid: 0.0866, current_valid: 0.1176, patience: 14/50
+Epoch 87: best_valid: 0.0866, current_valid: 0.1277, patience: 15/50
+Epoch 88: best_valid: 0.0866, current_valid: 0.1084, patience: 16/50
+Epoch 89: best_valid: 0.0866, current_valid: 0.1077, patience: 17/50
+Epoch 90: best_valid: 0.0866, current_valid: 0.0935, patience: 18/50
+Epoch 91: best_valid: 0.0866, current_valid: 0.1007, patience: 19/50
+Epoch 92: best_valid: 0.0866, current_valid: 0.0879, patience: 20/50
+Epoch 93: best_valid: 0.0866, current_valid: 0.0909, patience: 21/50
+Epoch 94: best_valid: 0.0866, current_valid: 0.1160, patience: 22/50
+Epoch 95: best_valid: 0.0866, current_valid: 0.1060, patience: 23/50
+Epoch 96: best_valid: 0.0866, current_valid: 0.1199, patience: 24/50
+Epoch 97: best_valid: 0.0866, current_valid: 0.0954, patience: 25/50
+Epoch 98: best_valid: 0.0866, current_valid: 0.0987, patience: 26/50
+Epoch 99: best_valid: 0.0866, current_valid: 0.1012, patience: 27/50
+Epoch 100: best_valid: 0.0866, current_valid: 0.1010, patience: 28/50
+Epoch 101: best_valid: 0.0866, current_valid: 0.1058, patience: 29/50
+Epoch 102: best_valid: 0.0866, current_valid: 0.0917, patience: 30/50
+Epoch 103: best_valid: 0.0866, current_valid: 0.1281, patience: 31/50
+Epoch 104: best_valid: 0.0866, current_valid: 0.1058, patience: 32/50
+Epoch 105: best_valid: 0.0866, current_valid: 0.1012, patience: 33/50
+Epoch 106: best_valid: 0.0866, current_valid: 0.0952, patience: 34/50
+Epoch 107: best_valid: 0.0866, current_valid: 0.1199, patience: 35/50
+Epoch 108: best_valid: 0.0866, current_valid: 0.0989, patience: 36/50
+Epoch 109: best_valid: 0.0866, current_valid: 0.0942, patience: 37/50
+Epoch 110: best_valid: 0.0866, current_valid: 0.0947, patience: 38/50
+Epoch 111: best_valid: 0.0866, current_valid: 0.0937, patience: 39/50
+Update Epoch 112: best_train: 0.0421 best_valid: 0.0836
+Epoch 113: best_valid: 0.0836, current_valid: 0.0933, patience: 1/50
+Epoch 114: best_valid: 0.0836, current_valid: 0.0870, patience: 2/50
+Epoch 115: best_valid: 0.0836, current_valid: 0.1318, patience: 3/50
+Epoch 116: best_valid: 0.0836, current_valid: 0.1073, patience: 4/50
+Epoch 117: best_valid: 0.0836, current_valid: 0.0908, patience: 5/50
+Update Epoch 118: best_train: 0.0373 best_valid: 0.0830
+Update Epoch 119: best_train: 0.0440 best_valid: 0.0830
+Epoch 120: best_valid: 0.0830, current_valid: 0.0972, patience: 1/50
+Epoch 121: best_valid: 0.0830, current_valid: 0.1020, patience: 2/50
+Epoch 122: best_valid: 0.0830, current_valid: 0.0860, patience: 3/50
+Epoch 123: best_valid: 0.0830, current_valid: 0.1107, patience: 4/50
+Epoch 124: best_valid: 0.0830, current_valid: 0.1064, patience: 5/50
+Epoch 125: best_valid: 0.0830, current_valid: 0.1097, patience: 6/50
+Epoch 126: best_valid: 0.0830, current_valid: 0.0950, patience: 7/50
+Epoch 127: best_valid: 0.0830, current_valid: 0.0960, patience: 8/50
+Epoch 128: best_valid: 0.0830, current_valid: 0.0908, patience: 9/50
+Epoch 129: best_valid: 0.0830, current_valid: 0.0838, patience: 10/50
+Epoch 130: best_valid: 0.0830, current_valid: 0.0878, patience: 11/50
+Epoch 131: best_valid: 0.0830, current_valid: 0.1031, patience: 12/50
+Epoch 132: best_valid: 0.0830, current_valid: 0.0959, patience: 13/50
+Epoch 133: best_valid: 0.0830, current_valid: 0.0898, patience: 14/50
+Epoch 134: best_valid: 0.0830, current_valid: 0.0860, patience: 15/50
+Epoch 135: best_valid: 0.0830, current_valid: 0.1007, patience: 16/50
+Epoch 136: best_valid: 0.0830, current_valid: 0.0874, patience: 17/50
+Epoch 137: best_valid: 0.0830, current_valid: 0.1139, patience: 18/50
+Epoch 138: best_valid: 0.0830, current_valid: 0.0995, patience: 19/50
+Epoch 139: best_valid: 0.0830, current_valid: 0.0934, patience: 20/50
+Epoch 140: best_valid: 0.0830, current_valid: 0.1004, patience: 21/50
+Epoch 141: best_valid: 0.0830, current_valid: 0.0885, patience: 22/50
+Epoch 142: best_valid: 0.0830, current_valid: 0.1892, patience: 23/50
+Epoch 143: best_valid: 0.0830, current_valid: 0.1013, patience: 24/50
+Epoch 144: best_valid: 0.0830, current_valid: 0.1029, patience: 25/50
+Epoch 145: best_valid: 0.0830, current_valid: 0.0909, patience: 26/50
+Epoch 146: best_valid: 0.0830, current_valid: 0.0851, patience: 27/50
+Epoch 147: best_valid: 0.0830, current_valid: 0.0838, patience: 28/50
+Epoch 148: best_valid: 0.0830, current_valid: 0.0906, patience: 29/50
+Update Epoch 149: best_train: 0.0363 best_valid: 0.0796
+Epoch 150: best_valid: 0.0796, current_valid: 0.0882, patience: 1/50
+Epoch 151: best_valid: 0.0796, current_valid: 0.0922, patience: 2/50
+Epoch 152: best_valid: 0.0796, current_valid: 0.0932, patience: 3/50
+Epoch 153: best_valid: 0.0796, current_valid: 0.0840, patience: 4/50
+Epoch 154: best_valid: 0.0796, current_valid: 0.0858, patience: 5/50
+Epoch 155: best_valid: 0.0796, current_valid: 0.0983, patience: 6/50
+Epoch 156: best_valid: 0.0796, current_valid: 0.0821, patience: 7/50
+Update Epoch 157: best_train: 0.0317 best_valid: 0.0788
+Epoch 158: best_valid: 0.0788, current_valid: 0.0964, patience: 1/50
+Epoch 159: best_valid: 0.0788, current_valid: 0.0813, patience: 2/50
+Epoch 160: best_valid: 0.0788, current_valid: 0.0913, patience: 3/50
+Epoch 161: best_valid: 0.0788, current_valid: 0.0865, patience: 4/50
+Epoch 162: best_valid: 0.0788, current_valid: 0.1030, patience: 5/50
+Epoch 163: best_valid: 0.0788, current_valid: 0.0875, patience: 6/50
+Epoch 164: best_valid: 0.0788, current_valid: 0.0980, patience: 7/50
+Epoch 165: best_valid: 0.0788, current_valid: 0.0812, patience: 8/50
+Epoch 166: best_valid: 0.0788, current_valid: 0.0807, patience: 9/50
+Epoch 167: best_valid: 0.0788, current_valid: 0.0812, patience: 10/50
+Epoch 168: best_valid: 0.0788, current_valid: 0.0840, patience: 11/50
+Epoch 169: best_valid: 0.0788, current_valid: 0.0835, patience: 12/50
+Epoch 170: best_valid: 0.0788, current_valid: 0.0916, patience: 13/50
+Epoch 171: best_valid: 0.0788, current_valid: 0.0874, patience: 14/50
+Epoch 172: best_valid: 0.0788, current_valid: 0.0822, patience: 15/50
+Epoch 173: best_valid: 0.0788, current_valid: 0.1168, patience: 16/50
+Epoch 174: best_valid: 0.0788, current_valid: 0.0845, patience: 17/50
+Epoch 175: best_valid: 0.0788, current_valid: 0.0838, patience: 18/50
+Update Epoch 176: best_train: 0.0281 best_valid: 0.0782
+Epoch 177: best_valid: 0.0782, current_valid: 0.0804, patience: 1/50
+Epoch 178: best_valid: 0.0782, current_valid: 0.0864, patience: 2/50
+Epoch 179: best_valid: 0.0782, current_valid: 0.0873, patience: 3/50
+Epoch 180: best_valid: 0.0782, current_valid: 0.0860, patience: 4/50
+Epoch 181: best_valid: 0.0782, current_valid: 0.0828, patience: 5/50
+Epoch 182: best_valid: 0.0782, current_valid: 0.0939, patience: 6/50
+Epoch 183: best_valid: 0.0782, current_valid: 0.0950, patience: 7/50
+Epoch 184: best_valid: 0.0782, current_valid: 0.0919, patience: 8/50
+Epoch 185: best_valid: 0.0782, current_valid: 0.0877, patience: 9/50
+Update Epoch 186: best_train: 0.0260 best_valid: 0.0760
+Epoch 187: best_valid: 0.0760, current_valid: 0.0864, patience: 1/50
+Epoch 188: best_valid: 0.0760, current_valid: 0.0870, patience: 2/50
+Epoch 189: best_valid: 0.0760, current_valid: 0.0952, patience: 3/50
+Epoch 190: best_valid: 0.0760, current_valid: 0.0925, patience: 4/50
+Epoch 191: best_valid: 0.0760, current_valid: 0.0848, patience: 5/50
+Epoch 192: best_valid: 0.0760, current_valid: 0.0910, patience: 6/50
+Epoch 193: best_valid: 0.0760, current_valid: 0.0842, patience: 7/50
+Epoch 194: best_valid: 0.0760, current_valid: 0.1030, patience: 8/50
+Epoch 195: best_valid: 0.0760, current_valid: 0.0921, patience: 9/50
+Epoch 196: best_valid: 0.0760, current_valid: 0.0959, patience: 10/50
+Epoch 197: best_valid: 0.0760, current_valid: 0.1103, patience: 11/50
+Epoch 198: best_valid: 0.0760, current_valid: 0.0902, patience: 12/50
+Epoch 199: best_valid: 0.0760, current_valid: 0.0864, patience: 13/50
+Epoch 200: best_valid: 0.0760, current_valid: 0.0910, patience: 14/50
+Epoch 201: best_valid: 0.0760, current_valid: 0.0868, patience: 15/50
+Epoch 202: best_valid: 0.0760, current_valid: 0.0867, patience: 16/50
+Epoch 203: best_valid: 0.0760, current_valid: 0.0795, patience: 17/50
+Epoch 204: best_valid: 0.0760, current_valid: 0.0789, patience: 18/50
+Epoch 205: best_valid: 0.0760, current_valid: 0.0813, patience: 19/50
+Epoch 206: best_valid: 0.0760, current_valid: 0.0864, patience: 20/50
+Epoch 207: best_valid: 0.0760, current_valid: 0.0818, patience: 21/50
+Epoch 208: best_valid: 0.0760, current_valid: 0.0879, patience: 22/50
+Epoch 209: best_valid: 0.0760, current_valid: 0.0864, patience: 23/50
+Epoch 210: best_valid: 0.0760, current_valid: 0.0862, patience: 24/50
+Epoch 211: best_valid: 0.0760, current_valid: 0.0811, patience: 25/50
+Epoch 212: best_valid: 0.0760, current_valid: 0.0919, patience: 26/50
+Epoch 213: best_valid: 0.0760, current_valid: 0.0833, patience: 27/50
+Epoch 214: best_valid: 0.0760, current_valid: 0.0903, patience: 28/50
+Epoch 215: best_valid: 0.0760, current_valid: 0.0872, patience: 29/50
+Epoch 216: best_valid: 0.0760, current_valid: 0.0851, patience: 30/50
+Epoch 217: best_valid: 0.0760, current_valid: 0.0807, patience: 31/50
+Epoch 218: best_valid: 0.0760, current_valid: 0.0812, patience: 32/50
+Epoch 219: best_valid: 0.0760, current_valid: 0.0789, patience: 33/50
+Epoch 220: best_valid: 0.0760, current_valid: 0.0819, patience: 34/50
+Update Epoch 221: best_train: 0.0218 best_valid: 0.0749
+Epoch 222: best_valid: 0.0749, current_valid: 0.0782, patience: 1/50
+Epoch 223: best_valid: 0.0749, current_valid: 0.0812, patience: 2/50
+Epoch 224: best_valid: 0.0749, current_valid: 0.0881, patience: 3/50
+Epoch 225: best_valid: 0.0749, current_valid: 0.0905, patience: 4/50
+Epoch 226: best_valid: 0.0749, current_valid: 0.0763, patience: 5/50
+Epoch 227: best_valid: 0.0749, current_valid: 0.0812, patience: 6/50
+Epoch 228: best_valid: 0.0749, current_valid: 0.0817, patience: 7/50
+Epoch 229: best_valid: 0.0749, current_valid: 0.0824, patience: 8/50
+Epoch 230: best_valid: 0.0749, current_valid: 0.0854, patience: 9/50
+Epoch 231: best_valid: 0.0749, current_valid: 0.0889, patience: 10/50
+Epoch 232: best_valid: 0.0749, current_valid: 0.0857, patience: 11/50
+Epoch 233: best_valid: 0.0749, current_valid: 0.0948, patience: 12/50
+Epoch 234: best_valid: 0.0749, current_valid: 0.0871, patience: 13/50
+Epoch 235: best_valid: 0.0749, current_valid: 0.0753, patience: 14/50
+Epoch 236: best_valid: 0.0749, current_valid: 0.0802, patience: 15/50
+Epoch 237: best_valid: 0.0749, current_valid: 0.0765, patience: 16/50
+Epoch 238: best_valid: 0.0749, current_valid: 0.0814, patience: 17/50
+Epoch 239: best_valid: 0.0749, current_valid: 0.0815, patience: 18/50
+Epoch 240: best_valid: 0.0749, current_valid: 0.0784, patience: 19/50
+Epoch 241: best_valid: 0.0749, current_valid: 0.0758, patience: 20/50
+Epoch 242: best_valid: 0.0749, current_valid: 0.0804, patience: 21/50
+Epoch 243: best_valid: 0.0749, current_valid: 0.0839, patience: 22/50
+Epoch 244: best_valid: 0.0749, current_valid: 0.0771, patience: 23/50
+Epoch 245: best_valid: 0.0749, current_valid: 0.0864, patience: 24/50
+Epoch 246: best_valid: 0.0749, current_valid: 0.0830, patience: 25/50
+Epoch 247: best_valid: 0.0749, current_valid: 0.0802, patience: 26/50
+Epoch 248: best_valid: 0.0749, current_valid: 0.0802, patience: 27/50
+Epoch 249: best_valid: 0.0749, current_valid: 0.0829, patience: 28/50
+Update Epoch 250: best_train: 0.0190 best_valid: 0.0748
+Epoch 251: best_valid: 0.0748, current_valid: 0.0799, patience: 1/50
+Epoch 252: best_valid: 0.0748, current_valid: 0.0852, patience: 2/50
+Epoch 253: best_valid: 0.0748, current_valid: 0.0831, patience: 3/50
+Epoch 254: best_valid: 0.0748, current_valid: 0.0818, patience: 4/50
+Epoch 255: best_valid: 0.0748, current_valid: 0.0797, patience: 5/50
+Epoch 256: best_valid: 0.0748, current_valid: 0.0783, patience: 6/50
+Epoch 257: best_valid: 0.0748, current_valid: 0.0836, patience: 7/50
+Epoch 258: best_valid: 0.0748, current_valid: 0.0785, patience: 8/50
+Epoch 259: best_valid: 0.0748, current_valid: 0.0848, patience: 9/50
+Epoch 260: best_valid: 0.0748, current_valid: 0.0852, patience: 10/50
+Epoch 261: best_valid: 0.0748, current_valid: 0.0844, patience: 11/50
+Epoch 262: best_valid: 0.0748, current_valid: 0.0766, patience: 12/50
+Epoch 263: best_valid: 0.0748, current_valid: 0.0779, patience: 13/50
+Epoch 264: best_valid: 0.0748, current_valid: 0.0793, patience: 14/50
+Epoch 265: best_valid: 0.0748, current_valid: 0.0778, patience: 15/50
+Epoch 266: best_valid: 0.0748, current_valid: 0.0828, patience: 16/50
+Epoch 267: best_valid: 0.0748, current_valid: 0.0795, patience: 17/50
+Epoch 268: best_valid: 0.0748, current_valid: 0.0787, patience: 18/50
+Epoch 269: best_valid: 0.0748, current_valid: 0.0762, patience: 19/50
+Epoch 270: best_valid: 0.0748, current_valid: 0.0750, patience: 20/50
+Epoch 271: best_valid: 0.0748, current_valid: 0.0791, patience: 21/50
+Epoch 272: best_valid: 0.0748, current_valid: 0.0803, patience: 22/50
+Epoch 273: best_valid: 0.0748, current_valid: 0.0784, patience: 23/50
+Epoch 274: best_valid: 0.0748, current_valid: 0.0777, patience: 24/50
+Epoch 275: best_valid: 0.0748, current_valid: 0.0822, patience: 25/50
+Epoch 276: best_valid: 0.0748, current_valid: 0.0852, patience: 26/50
+Epoch 277: best_valid: 0.0748, current_valid: 0.0792, patience: 27/50
+Epoch 278: best_valid: 0.0748, current_valid: 0.0844, patience: 28/50
+Epoch 279: best_valid: 0.0748, current_valid: 0.0796, patience: 29/50
+Epoch 280: best_valid: 0.0748, current_valid: 0.0775, patience: 30/50
+Epoch 281: best_valid: 0.0748, current_valid: 0.0787, patience: 31/50
+Epoch 282: best_valid: 0.0748, current_valid: 0.0775, patience: 32/50
+Epoch 283: best_valid: 0.0748, current_valid: 0.0810, patience: 33/50
+Epoch 284: best_valid: 0.0748, current_valid: 0.0838, patience: 34/50
+Epoch 285: best_valid: 0.0748, current_valid: 0.0837, patience: 35/50
+Epoch 286: best_valid: 0.0748, current_valid: 0.0859, patience: 36/50
+Epoch 287: best_valid: 0.0748, current_valid: 0.0756, patience: 37/50
+Epoch 288: best_valid: 0.0748, current_valid: 0.0802, patience: 38/50
+Epoch 289: best_valid: 0.0748, current_valid: 0.0802, patience: 39/50
+Epoch 290: best_valid: 0.0748, current_valid: 0.0809, patience: 40/50
+Epoch 291: best_valid: 0.0748, current_valid: 0.0789, patience: 41/50
+Epoch 292: best_valid: 0.0748, current_valid: 0.0786, patience: 42/50
+Epoch 293: best_valid: 0.0748, current_valid: 0.0848, patience: 43/50
+Epoch 294: best_valid: 0.0748, current_valid: 0.0826, patience: 44/50
+Epoch 295: best_valid: 0.0748, current_valid: 0.0800, patience: 45/50
+Epoch 296: best_valid: 0.0748, current_valid: 0.0785, patience: 46/50
+Epoch 297: best_valid: 0.0748, current_valid: 0.0817, patience: 47/50
+Epoch 298: best_valid: 0.0748, current_valid: 0.0830, patience: 48/50
+Epoch 299: best_valid: 0.0748, current_valid: 0.0825, patience: 49/50
+Finished. 
+ Best validation epoch 250 with metric wmae, train 0.0190, valid 0.0748
+Seed 7
+Start training...
+Update Epoch 0: best_train: 0.5533 best_valid: 0.7112
+Update Epoch 1: best_train: 0.3191 best_valid: 0.4711
+Update Epoch 2: best_train: 0.2913 best_valid: 0.4338
+Update Epoch 3: best_train: 0.2473 best_valid: 0.3566
+Update Epoch 4: best_train: 0.1671 best_valid: 0.2246
+Epoch 5: best_valid: 0.2246, current_valid: 0.3533, patience: 1/50
+Epoch 6: best_valid: 0.2246, current_valid: 0.3661, patience: 2/50
+Epoch 7: best_valid: 0.2246, current_valid: 0.4273, patience: 3/50
+Epoch 8: best_valid: 0.2246, current_valid: 0.2790, patience: 4/50
+Update Epoch 9: best_train: 0.1366 best_valid: 0.1878
+Update Epoch 10: best_train: 0.1383 best_valid: 0.1829
+Epoch 11: best_valid: 0.1829, current_valid: 0.2606, patience: 1/50
+Epoch 12: best_valid: 0.1829, current_valid: 0.3676, patience: 2/50
+Update Epoch 13: best_train: 0.1294 best_valid: 0.1828
+Epoch 14: best_valid: 0.1828, current_valid: 0.3995, patience: 1/50
+Update Epoch 15: best_train: 0.1251 best_valid: 0.1710
+Epoch 16: best_valid: 0.1710, current_valid: 0.3307, patience: 1/50
+Epoch 17: best_valid: 0.1710, current_valid: 0.2089, patience: 2/50
+Epoch 18: best_valid: 0.1710, current_valid: 0.1851, patience: 3/50
+Epoch 19: best_valid: 0.1710, current_valid: 0.2058, patience: 4/50
+Epoch 20: best_valid: 0.1710, current_valid: 0.2728, patience: 5/50
+Epoch 21: best_valid: 0.1710, current_valid: 0.1862, patience: 6/50
+Epoch 22: best_valid: 0.1710, current_valid: 0.1900, patience: 7/50
+Epoch 23: best_valid: 0.1710, current_valid: 0.1845, patience: 8/50
+Update Epoch 24: best_train: 0.1006 best_valid: 0.1482
+Epoch 25: best_valid: 0.1482, current_valid: 0.1522, patience: 1/50
+Epoch 26: best_valid: 0.1482, current_valid: 0.1594, patience: 2/50
+Update Epoch 27: best_train: 0.0905 best_valid: 0.1400
+Update Epoch 28: best_train: 0.0809 best_valid: 0.1087
+Epoch 29: best_valid: 0.1087, current_valid: 0.1254, patience: 1/50
+Epoch 30: best_valid: 0.1087, current_valid: 0.1595, patience: 2/50
+Epoch 31: best_valid: 0.1087, current_valid: 0.1401, patience: 3/50
+Epoch 32: best_valid: 0.1087, current_valid: 0.1353, patience: 4/50
+Epoch 33: best_valid: 0.1087, current_valid: 0.1360, patience: 5/50
+Epoch 34: best_valid: 0.1087, current_valid: 0.1417, patience: 6/50
+Epoch 35: best_valid: 0.1087, current_valid: 0.1607, patience: 7/50
+Epoch 36: best_valid: 0.1087, current_valid: 0.1209, patience: 8/50
+Epoch 37: best_valid: 0.1087, current_valid: 0.1369, patience: 9/50
+Epoch 38: best_valid: 0.1087, current_valid: 0.1532, patience: 10/50
+Epoch 39: best_valid: 0.1087, current_valid: 0.1738, patience: 11/50
+Epoch 40: best_valid: 0.1087, current_valid: 0.1553, patience: 12/50
+Epoch 41: best_valid: 0.1087, current_valid: 0.1496, patience: 13/50
+Epoch 42: best_valid: 0.1087, current_valid: 0.1403, patience: 14/50
+Epoch 43: best_valid: 0.1087, current_valid: 0.1760, patience: 15/50
+Epoch 44: best_valid: 0.1087, current_valid: 0.1389, patience: 16/50
+Epoch 45: best_valid: 0.1087, current_valid: 0.1233, patience: 17/50
+Epoch 46: best_valid: 0.1087, current_valid: 0.1627, patience: 18/50
+Epoch 47: best_valid: 0.1087, current_valid: 0.1404, patience: 19/50
+Epoch 48: best_valid: 0.1087, current_valid: 0.1893, patience: 20/50
+Epoch 49: best_valid: 0.1087, current_valid: 0.1244, patience: 21/50
+Epoch 50: best_valid: 0.1087, current_valid: 0.1150, patience: 22/50
+Epoch 51: best_valid: 0.1087, current_valid: 0.1338, patience: 23/50
+Epoch 52: best_valid: 0.1087, current_valid: 0.1324, patience: 24/50
+Epoch 53: best_valid: 0.1087, current_valid: 0.1119, patience: 25/50
+Epoch 54: best_valid: 0.1087, current_valid: 0.1480, patience: 26/50
+Update Epoch 55: best_train: 0.0639 best_valid: 0.0983
+Epoch 56: best_valid: 0.0983, current_valid: 0.1010, patience: 1/50
+Epoch 57: best_valid: 0.0983, current_valid: 0.1385, patience: 2/50
+Epoch 58: best_valid: 0.0983, current_valid: 0.1308, patience: 3/50
+Epoch 59: best_valid: 0.0983, current_valid: 0.1243, patience: 4/50
+Update Epoch 60: best_train: 0.0583 best_valid: 0.0950
+Epoch 61: best_valid: 0.0950, current_valid: 0.1047, patience: 1/50
+Epoch 62: best_valid: 0.0950, current_valid: 0.1246, patience: 2/50
+Epoch 63: best_valid: 0.0950, current_valid: 0.1415, patience: 3/50
+Epoch 64: best_valid: 0.0950, current_valid: 0.1338, patience: 4/50
+Epoch 65: best_valid: 0.0950, current_valid: 0.1504, patience: 5/50
+Epoch 66: best_valid: 0.0950, current_valid: 0.1108, patience: 6/50
+Epoch 67: best_valid: 0.0950, current_valid: 0.1164, patience: 7/50
+Epoch 68: best_valid: 0.0950, current_valid: 0.1341, patience: 8/50
+Epoch 69: best_valid: 0.0950, current_valid: 0.1045, patience: 9/50
+Epoch 70: best_valid: 0.0950, current_valid: 0.1109, patience: 10/50
+Epoch 71: best_valid: 0.0950, current_valid: 0.1038, patience: 11/50
+Epoch 72: best_valid: 0.0950, current_valid: 0.1090, patience: 12/50
+Epoch 73: best_valid: 0.0950, current_valid: 0.1280, patience: 13/50
+Epoch 74: best_valid: 0.0950, current_valid: 0.1228, patience: 14/50
+Epoch 75: best_valid: 0.0950, current_valid: 0.1227, patience: 15/50
+Epoch 76: best_valid: 0.0950, current_valid: 0.0994, patience: 16/50
+Epoch 77: best_valid: 0.0950, current_valid: 0.1055, patience: 17/50
+Epoch 78: best_valid: 0.0950, current_valid: 0.1411, patience: 18/50
+Update Epoch 79: best_train: 0.0535 best_valid: 0.0931
+Epoch 80: best_valid: 0.0931, current_valid: 0.1188, patience: 1/50
+Epoch 81: best_valid: 0.0931, current_valid: 0.1245, patience: 2/50
+Epoch 82: best_valid: 0.0931, current_valid: 0.1399, patience: 3/50
+Epoch 83: best_valid: 0.0931, current_valid: 0.1037, patience: 4/50
+Update Epoch 84: best_train: 0.0448 best_valid: 0.0911
+Epoch 85: best_valid: 0.0911, current_valid: 0.0930, patience: 1/50
+Epoch 86: best_valid: 0.0911, current_valid: 0.1058, patience: 2/50
+Epoch 87: best_valid: 0.0911, current_valid: 0.1085, patience: 3/50
+Epoch 88: best_valid: 0.0911, current_valid: 0.1176, patience: 4/50
+Epoch 89: best_valid: 0.0911, current_valid: 0.0931, patience: 5/50
+Epoch 90: best_valid: 0.0911, current_valid: 0.1248, patience: 6/50
+Epoch 91: best_valid: 0.0911, current_valid: 0.1309, patience: 7/50
+Epoch 92: best_valid: 0.0911, current_valid: 0.1211, patience: 8/50
+Epoch 93: best_valid: 0.0911, current_valid: 0.1027, patience: 9/50
+Epoch 94: best_valid: 0.0911, current_valid: 0.1003, patience: 10/50
+Epoch 95: best_valid: 0.0911, current_valid: 0.1121, patience: 11/50
+Epoch 96: best_valid: 0.0911, current_valid: 0.0925, patience: 12/50
+Epoch 97: best_valid: 0.0911, current_valid: 0.1062, patience: 13/50
+Epoch 98: best_valid: 0.0911, current_valid: 0.0987, patience: 14/50
+Epoch 99: best_valid: 0.0911, current_valid: 0.1203, patience: 15/50
+Epoch 100: best_valid: 0.0911, current_valid: 0.1072, patience: 16/50
+Epoch 101: best_valid: 0.0911, current_valid: 0.1173, patience: 17/50
+Epoch 102: best_valid: 0.0911, current_valid: 0.0924, patience: 18/50
+Epoch 103: best_valid: 0.0911, current_valid: 0.1231, patience: 19/50
+Epoch 104: best_valid: 0.0911, current_valid: 0.0995, patience: 20/50
+Epoch 105: best_valid: 0.0911, current_valid: 0.1093, patience: 21/50
+Update Epoch 106: best_train: 0.0409 best_valid: 0.0893
+Update Epoch 107: best_train: 0.0389 best_valid: 0.0893
+Epoch 108: best_valid: 0.0893, current_valid: 0.0925, patience: 1/50
+Epoch 109: best_valid: 0.0893, current_valid: 0.0953, patience: 2/50
+Epoch 110: best_valid: 0.0893, current_valid: 0.1151, patience: 3/50
+Epoch 111: best_valid: 0.0893, current_valid: 0.0932, patience: 4/50
+Epoch 112: best_valid: 0.0893, current_valid: 0.0925, patience: 5/50
+Epoch 113: best_valid: 0.0893, current_valid: 0.1012, patience: 6/50
+Epoch 114: best_valid: 0.0893, current_valid: 0.1260, patience: 7/50
+Epoch 115: best_valid: 0.0893, current_valid: 0.0977, patience: 8/50
+Epoch 116: best_valid: 0.0893, current_valid: 0.0935, patience: 9/50
+Epoch 117: best_valid: 0.0893, current_valid: 0.0907, patience: 10/50
+Epoch 118: best_valid: 0.0893, current_valid: 0.1072, patience: 11/50
+Epoch 119: best_valid: 0.0893, current_valid: 0.1085, patience: 12/50
+Epoch 120: best_valid: 0.0893, current_valid: 0.1094, patience: 13/50
+Epoch 121: best_valid: 0.0893, current_valid: 0.1088, patience: 14/50
+Epoch 122: best_valid: 0.0893, current_valid: 0.1058, patience: 15/50
+Epoch 123: best_valid: 0.0893, current_valid: 0.0919, patience: 16/50
+Epoch 124: best_valid: 0.0893, current_valid: 0.0939, patience: 17/50
+Epoch 125: best_valid: 0.0893, current_valid: 0.0971, patience: 18/50
+Epoch 126: best_valid: 0.0893, current_valid: 0.0917, patience: 19/50
+Update Epoch 127: best_train: 0.0335 best_valid: 0.0880
+Epoch 128: best_valid: 0.0880, current_valid: 0.0986, patience: 1/50
+Epoch 129: best_valid: 0.0880, current_valid: 0.1023, patience: 2/50
+Epoch 130: best_valid: 0.0880, current_valid: 0.1196, patience: 3/50
+Epoch 131: best_valid: 0.0880, current_valid: 0.0907, patience: 4/50
+Epoch 132: best_valid: 0.0880, current_valid: 0.0944, patience: 5/50
+Epoch 133: best_valid: 0.0880, current_valid: 0.0930, patience: 6/50
+Epoch 134: best_valid: 0.0880, current_valid: 0.0951, patience: 7/50
+Epoch 135: best_valid: 0.0880, current_valid: 0.0995, patience: 8/50
+Epoch 136: best_valid: 0.0880, current_valid: 0.0942, patience: 9/50
+Update Epoch 137: best_train: 0.0346 best_valid: 0.0857
+Update Epoch 138: best_train: 0.0318 best_valid: 0.0855
+Epoch 139: best_valid: 0.0855, current_valid: 0.1465, patience: 1/50
+Epoch 140: best_valid: 0.0855, current_valid: 0.0966, patience: 2/50
+Epoch 141: best_valid: 0.0855, current_valid: 0.0888, patience: 3/50
+Epoch 142: best_valid: 0.0855, current_valid: 0.1110, patience: 4/50
+Epoch 143: best_valid: 0.0855, current_valid: 0.0899, patience: 5/50
+Epoch 144: best_valid: 0.0855, current_valid: 0.1017, patience: 6/50
+Epoch 145: best_valid: 0.0855, current_valid: 0.0971, patience: 7/50
+Epoch 146: best_valid: 0.0855, current_valid: 0.1036, patience: 8/50
+Epoch 147: best_valid: 0.0855, current_valid: 0.0887, patience: 9/50
+Epoch 148: best_valid: 0.0855, current_valid: 0.1050, patience: 10/50
+Epoch 149: best_valid: 0.0855, current_valid: 0.1191, patience: 11/50
+Epoch 150: best_valid: 0.0855, current_valid: 0.0938, patience: 12/50
+Epoch 151: best_valid: 0.0855, current_valid: 0.0927, patience: 13/50
+Epoch 152: best_valid: 0.0855, current_valid: 0.0860, patience: 14/50
+Epoch 153: best_valid: 0.0855, current_valid: 0.0896, patience: 15/50
+Epoch 154: best_valid: 0.0855, current_valid: 0.0937, patience: 16/50
+Update Epoch 155: best_train: 0.0355 best_valid: 0.0848
+Epoch 156: best_valid: 0.0848, current_valid: 0.0970, patience: 1/50
+Epoch 157: best_valid: 0.0848, current_valid: 0.1042, patience: 2/50
+Epoch 158: best_valid: 0.0848, current_valid: 0.0910, patience: 3/50
+Epoch 159: best_valid: 0.0848, current_valid: 0.1168, patience: 4/50
+Epoch 160: best_valid: 0.0848, current_valid: 0.0867, patience: 5/50
+Epoch 161: best_valid: 0.0848, current_valid: 0.0924, patience: 6/50
+Epoch 162: best_valid: 0.0848, current_valid: 0.0857, patience: 7/50
+Update Epoch 163: best_train: 0.0324 best_valid: 0.0837
+Epoch 164: best_valid: 0.0837, current_valid: 0.0891, patience: 1/50
+Epoch 165: best_valid: 0.0837, current_valid: 0.0928, patience: 2/50
+Update Epoch 166: best_train: 0.0294 best_valid: 0.0832
+Update Epoch 167: best_train: 0.0292 best_valid: 0.0828
+Epoch 168: best_valid: 0.0828, current_valid: 0.1081, patience: 1/50
+Epoch 169: best_valid: 0.0828, current_valid: 0.0951, patience: 2/50
+Epoch 170: best_valid: 0.0828, current_valid: 0.1164, patience: 3/50
+Epoch 171: best_valid: 0.0828, current_valid: 0.1057, patience: 4/50
+Epoch 172: best_valid: 0.0828, current_valid: 0.0836, patience: 5/50
+Epoch 173: best_valid: 0.0828, current_valid: 0.0855, patience: 6/50
+Epoch 174: best_valid: 0.0828, current_valid: 0.0979, patience: 7/50
+Epoch 175: best_valid: 0.0828, current_valid: 0.0936, patience: 8/50
+Epoch 176: best_valid: 0.0828, current_valid: 0.0956, patience: 9/50
+Epoch 177: best_valid: 0.0828, current_valid: 0.0859, patience: 10/50
+Epoch 178: best_valid: 0.0828, current_valid: 0.0837, patience: 11/50
+Epoch 179: best_valid: 0.0828, current_valid: 0.0879, patience: 12/50
+Epoch 180: best_valid: 0.0828, current_valid: 0.0914, patience: 13/50
+Epoch 181: best_valid: 0.0828, current_valid: 0.0860, patience: 14/50
+Epoch 182: best_valid: 0.0828, current_valid: 0.0851, patience: 15/50
+Epoch 183: best_valid: 0.0828, current_valid: 0.0926, patience: 16/50
+Epoch 184: best_valid: 0.0828, current_valid: 0.0856, patience: 17/50
+Epoch 185: best_valid: 0.0828, current_valid: 0.0863, patience: 18/50
+Epoch 186: best_valid: 0.0828, current_valid: 0.0932, patience: 19/50
+Epoch 187: best_valid: 0.0828, current_valid: 0.0868, patience: 20/50
+Epoch 188: best_valid: 0.0828, current_valid: 0.0940, patience: 21/50
+Epoch 189: best_valid: 0.0828, current_valid: 0.0897, patience: 22/50
+Epoch 190: best_valid: 0.0828, current_valid: 0.0868, patience: 23/50
+Epoch 191: best_valid: 0.0828, current_valid: 0.0895, patience: 24/50
+Epoch 192: best_valid: 0.0828, current_valid: 0.0931, patience: 25/50
+Epoch 193: best_valid: 0.0828, current_valid: 0.1034, patience: 26/50
+Epoch 194: best_valid: 0.0828, current_valid: 0.0872, patience: 27/50
+Epoch 195: best_valid: 0.0828, current_valid: 0.0835, patience: 28/50
+Update Epoch 196: best_train: 0.0254 best_valid: 0.0812
+Epoch 197: best_valid: 0.0812, current_valid: 0.0866, patience: 1/50
+Epoch 198: best_valid: 0.0812, current_valid: 0.0875, patience: 2/50
+Epoch 199: best_valid: 0.0812, current_valid: 0.0829, patience: 3/50
+Epoch 200: best_valid: 0.0812, current_valid: 0.0821, patience: 4/50
+Epoch 201: best_valid: 0.0812, current_valid: 0.0827, patience: 5/50
+Epoch 202: best_valid: 0.0812, current_valid: 0.0853, patience: 6/50
+Epoch 203: best_valid: 0.0812, current_valid: 0.0923, patience: 7/50
+Epoch 204: best_valid: 0.0812, current_valid: 0.0978, patience: 8/50
+Epoch 205: best_valid: 0.0812, current_valid: 0.0872, patience: 9/50
+Epoch 206: best_valid: 0.0812, current_valid: 0.0985, patience: 10/50
+Epoch 207: best_valid: 0.0812, current_valid: 0.0831, patience: 11/50
+Epoch 208: best_valid: 0.0812, current_valid: 0.0851, patience: 12/50
+Update Epoch 209: best_train: 0.0245 best_valid: 0.0800
+Epoch 210: best_valid: 0.0800, current_valid: 0.0863, patience: 1/50
+Epoch 211: best_valid: 0.0800, current_valid: 0.0855, patience: 2/50
+Epoch 212: best_valid: 0.0800, current_valid: 0.0862, patience: 3/50
+Epoch 213: best_valid: 0.0800, current_valid: 0.0833, patience: 4/50
+Epoch 214: best_valid: 0.0800, current_valid: 0.0857, patience: 5/50
+Epoch 215: best_valid: 0.0800, current_valid: 0.0923, patience: 6/50
+Epoch 216: best_valid: 0.0800, current_valid: 0.0857, patience: 7/50
+Epoch 217: best_valid: 0.0800, current_valid: 0.0843, patience: 8/50
+Epoch 218: best_valid: 0.0800, current_valid: 0.0829, patience: 9/50
+Epoch 219: best_valid: 0.0800, current_valid: 0.0838, patience: 10/50
+Epoch 220: best_valid: 0.0800, current_valid: 0.0822, patience: 11/50
+Epoch 221: best_valid: 0.0800, current_valid: 0.0811, patience: 12/50
+Epoch 222: best_valid: 0.0800, current_valid: 0.0872, patience: 13/50
+Epoch 223: best_valid: 0.0800, current_valid: 0.0837, patience: 14/50
+Epoch 224: best_valid: 0.0800, current_valid: 0.0863, patience: 15/50
+Epoch 225: best_valid: 0.0800, current_valid: 0.0942, patience: 16/50
+Epoch 226: best_valid: 0.0800, current_valid: 0.0903, patience: 17/50
+Epoch 227: best_valid: 0.0800, current_valid: 0.0868, patience: 18/50
+Epoch 228: best_valid: 0.0800, current_valid: 0.0907, patience: 19/50
+Epoch 229: best_valid: 0.0800, current_valid: 0.0827, patience: 20/50
+Epoch 230: best_valid: 0.0800, current_valid: 0.0900, patience: 21/50
+Epoch 231: best_valid: 0.0800, current_valid: 0.0925, patience: 22/50
+Epoch 232: best_valid: 0.0800, current_valid: 0.0953, patience: 23/50
+Epoch 233: best_valid: 0.0800, current_valid: 0.0935, patience: 24/50
+Epoch 234: best_valid: 0.0800, current_valid: 0.0853, patience: 25/50
+Epoch 235: best_valid: 0.0800, current_valid: 0.0819, patience: 26/50
+Update Epoch 236: best_train: 0.0223 best_valid: 0.0774
+Epoch 237: best_valid: 0.0774, current_valid: 0.0796, patience: 1/50
+Epoch 238: best_valid: 0.0774, current_valid: 0.0873, patience: 2/50
+Epoch 239: best_valid: 0.0774, current_valid: 0.0842, patience: 3/50
+Epoch 240: best_valid: 0.0774, current_valid: 0.0824, patience: 4/50
+Epoch 241: best_valid: 0.0774, current_valid: 0.0855, patience: 5/50
+Epoch 242: best_valid: 0.0774, current_valid: 0.0857, patience: 6/50
+Epoch 243: best_valid: 0.0774, current_valid: 0.0850, patience: 7/50
+Epoch 244: best_valid: 0.0774, current_valid: 0.0833, patience: 8/50
+Epoch 245: best_valid: 0.0774, current_valid: 0.0843, patience: 9/50
+Epoch 246: best_valid: 0.0774, current_valid: 0.0894, patience: 10/50
+Epoch 247: best_valid: 0.0774, current_valid: 0.0846, patience: 11/50
+Epoch 248: best_valid: 0.0774, current_valid: 0.0930, patience: 12/50
+Epoch 249: best_valid: 0.0774, current_valid: 0.0933, patience: 13/50
+Epoch 250: best_valid: 0.0774, current_valid: 0.0866, patience: 14/50
+Epoch 251: best_valid: 0.0774, current_valid: 0.0940, patience: 15/50
+Epoch 252: best_valid: 0.0774, current_valid: 0.0857, patience: 16/50
+Epoch 253: best_valid: 0.0774, current_valid: 0.0842, patience: 17/50
+Epoch 254: best_valid: 0.0774, current_valid: 0.0837, patience: 18/50
+Epoch 255: best_valid: 0.0774, current_valid: 0.0858, patience: 19/50
+Epoch 256: best_valid: 0.0774, current_valid: 0.0863, patience: 20/50
+Epoch 257: best_valid: 0.0774, current_valid: 0.0895, patience: 21/50
+Epoch 258: best_valid: 0.0774, current_valid: 0.0924, patience: 22/50
+Epoch 259: best_valid: 0.0774, current_valid: 0.0879, patience: 23/50
+Epoch 260: best_valid: 0.0774, current_valid: 0.0842, patience: 24/50
+Epoch 261: best_valid: 0.0774, current_valid: 0.0864, patience: 25/50
+Epoch 262: best_valid: 0.0774, current_valid: 0.0866, patience: 26/50
+Epoch 263: best_valid: 0.0774, current_valid: 0.0852, patience: 27/50
+Epoch 264: best_valid: 0.0774, current_valid: 0.0841, patience: 28/50
+Epoch 265: best_valid: 0.0774, current_valid: 0.0842, patience: 29/50
+Epoch 266: best_valid: 0.0774, current_valid: 0.0821, patience: 30/50
+Epoch 267: best_valid: 0.0774, current_valid: 0.0862, patience: 31/50
+Epoch 268: best_valid: 0.0774, current_valid: 0.0831, patience: 32/50
+Epoch 269: best_valid: 0.0774, current_valid: 0.0826, patience: 33/50
+Epoch 270: best_valid: 0.0774, current_valid: 0.0836, patience: 34/50
+Epoch 271: best_valid: 0.0774, current_valid: 0.0867, patience: 35/50
+Epoch 272: best_valid: 0.0774, current_valid: 0.0812, patience: 36/50
+Epoch 273: best_valid: 0.0774, current_valid: 0.0802, patience: 37/50
+Epoch 274: best_valid: 0.0774, current_valid: 0.0836, patience: 38/50
+Epoch 275: best_valid: 0.0774, current_valid: 0.0830, patience: 39/50
+Epoch 276: best_valid: 0.0774, current_valid: 0.0874, patience: 40/50
+Epoch 277: best_valid: 0.0774, current_valid: 0.0867, patience: 41/50
+Epoch 278: best_valid: 0.0774, current_valid: 0.0853, patience: 42/50
+Epoch 279: best_valid: 0.0774, current_valid: 0.0880, patience: 43/50
+Epoch 280: best_valid: 0.0774, current_valid: 0.0910, patience: 44/50
+Epoch 281: best_valid: 0.0774, current_valid: 0.0841, patience: 45/50
+Epoch 282: best_valid: 0.0774, current_valid: 0.0865, patience: 46/50
+Epoch 283: best_valid: 0.0774, current_valid: 0.0829, patience: 47/50
+Epoch 284: best_valid: 0.0774, current_valid: 0.0851, patience: 48/50
+Epoch 285: best_valid: 0.0774, current_valid: 0.0853, patience: 49/50
+Epoch 286: best_valid: 0.0774, current_valid: 0.0826, patience: 50/50
+Epoch 287: best_valid: 0.0774, current_valid: 0.0830, patience: 51/50
+Finished. 
+ Best validation epoch 236 with metric wmae, train 0.0223, valid 0.0774
+Seed 8
+Start training...
+Update Epoch 0: best_train: 1.1123 best_valid: 1.5041
+Update Epoch 1: best_train: 0.6082 best_valid: 1.1196
+Update Epoch 2: best_train: 0.4414 best_valid: 0.6368
+Epoch 3: best_valid: 0.6368, current_valid: 0.7689, patience: 1/50
+Update Epoch 4: best_train: 0.2907 best_valid: 0.4533
+Update Epoch 5: best_train: 0.2006 best_valid: 0.2878
+Epoch 6: best_valid: 0.2878, current_valid: 0.3678, patience: 1/50
+Epoch 7: best_valid: 0.2878, current_valid: 0.3217, patience: 2/50
+Epoch 8: best_valid: 0.2878, current_valid: 0.2993, patience: 3/50
+Update Epoch 9: best_train: 0.1882 best_valid: 0.2589
+Update Epoch 10: best_train: 0.1412 best_valid: 0.2029
+Epoch 11: best_valid: 0.2029, current_valid: 0.2862, patience: 1/50
+Epoch 12: best_valid: 0.2029, current_valid: 0.4129, patience: 2/50
+Update Epoch 13: best_train: 0.1220 best_valid: 0.1842
+Epoch 14: best_valid: 0.1842, current_valid: 0.2615, patience: 1/50
+Epoch 15: best_valid: 0.1842, current_valid: 0.2212, patience: 2/50
+Epoch 16: best_valid: 0.1842, current_valid: 0.2130, patience: 3/50
+Update Epoch 17: best_train: 0.1100 best_valid: 0.1681
+Epoch 18: best_valid: 0.1681, current_valid: 0.1974, patience: 1/50
+Update Epoch 19: best_train: 0.1137 best_valid: 0.1638
+Epoch 20: best_valid: 0.1638, current_valid: 0.1771, patience: 1/50
+Update Epoch 21: best_train: 0.0947 best_valid: 0.1387
+Epoch 22: best_valid: 0.1387, current_valid: 0.1532, patience: 1/50
+Epoch 23: best_valid: 0.1387, current_valid: 0.1549, patience: 2/50
+Update Epoch 24: best_train: 0.0943 best_valid: 0.1377
+Update Epoch 25: best_train: 0.0927 best_valid: 0.1261
+Epoch 26: best_valid: 0.1261, current_valid: 0.1414, patience: 1/50
+Epoch 27: best_valid: 0.1261, current_valid: 0.1435, patience: 2/50
+Epoch 28: best_valid: 0.1261, current_valid: 0.1503, patience: 3/50
+Epoch 29: best_valid: 0.1261, current_valid: 0.1851, patience: 4/50
+Epoch 30: best_valid: 0.1261, current_valid: 0.1547, patience: 5/50
+Epoch 31: best_valid: 0.1261, current_valid: 0.1654, patience: 6/50
+Epoch 32: best_valid: 0.1261, current_valid: 0.1687, patience: 7/50
+Epoch 33: best_valid: 0.1261, current_valid: 0.1420, patience: 8/50
+Epoch 34: best_valid: 0.1261, current_valid: 0.1491, patience: 9/50
+Epoch 35: best_valid: 0.1261, current_valid: 0.1335, patience: 10/50
+Epoch 36: best_valid: 0.1261, current_valid: 0.1981, patience: 11/50
+Epoch 37: best_valid: 0.1261, current_valid: 0.1425, patience: 12/50
+Epoch 38: best_valid: 0.1261, current_valid: 0.1346, patience: 13/50
+Epoch 39: best_valid: 0.1261, current_valid: 0.1513, patience: 14/50
+Epoch 40: best_valid: 0.1261, current_valid: 0.1555, patience: 15/50
+Epoch 41: best_valid: 0.1261, current_valid: 0.1535, patience: 16/50
+Epoch 42: best_valid: 0.1261, current_valid: 0.1289, patience: 17/50
+Epoch 43: best_valid: 0.1261, current_valid: 0.1670, patience: 18/50
+Epoch 44: best_valid: 0.1261, current_valid: 0.1463, patience: 19/50
+Epoch 45: best_valid: 0.1261, current_valid: 0.1682, patience: 20/50
+Epoch 46: best_valid: 0.1261, current_valid: 0.1383, patience: 21/50
+Epoch 47: best_valid: 0.1261, current_valid: 0.1505, patience: 22/50
+Update Epoch 48: best_train: 0.0799 best_valid: 0.1248
+Epoch 49: best_valid: 0.1248, current_valid: 0.1316, patience: 1/50
+Update Epoch 50: best_train: 0.0702 best_valid: 0.1237
+Epoch 51: best_valid: 0.1237, current_valid: 0.1365, patience: 1/50
+Epoch 52: best_valid: 0.1237, current_valid: 0.1550, patience: 2/50
+Epoch 53: best_valid: 0.1237, current_valid: 0.1318, patience: 3/50
+Epoch 54: best_valid: 0.1237, current_valid: 0.1258, patience: 4/50
+Epoch 55: best_valid: 0.1237, current_valid: 0.1279, patience: 5/50
+Epoch 56: best_valid: 0.1237, current_valid: 0.1288, patience: 6/50
+Epoch 57: best_valid: 0.1237, current_valid: 0.1254, patience: 7/50
+Epoch 58: best_valid: 0.1237, current_valid: 0.1325, patience: 8/50
+Update Epoch 59: best_train: 0.0619 best_valid: 0.1190
+Update Epoch 60: best_train: 0.0586 best_valid: 0.1107
+Update Epoch 61: best_train: 0.0713 best_valid: 0.1093
+Epoch 62: best_valid: 0.1093, current_valid: 0.1200, patience: 1/50
+Epoch 63: best_valid: 0.1093, current_valid: 0.1407, patience: 2/50
+Epoch 64: best_valid: 0.1093, current_valid: 0.1328, patience: 3/50
+Epoch 65: best_valid: 0.1093, current_valid: 0.1106, patience: 4/50
+Update Epoch 66: best_train: 0.0590 best_valid: 0.1065
+Update Epoch 67: best_train: 0.0582 best_valid: 0.1054
+Epoch 68: best_valid: 0.1054, current_valid: 0.1146, patience: 1/50
+Epoch 69: best_valid: 0.1054, current_valid: 0.1456, patience: 2/50
+Epoch 70: best_valid: 0.1054, current_valid: 0.2044, patience: 3/50
+Epoch 71: best_valid: 0.1054, current_valid: 0.2095, patience: 4/50
+Epoch 72: best_valid: 0.1054, current_valid: 0.1161, patience: 5/50
+Epoch 73: best_valid: 0.1054, current_valid: 0.1172, patience: 6/50
+Update Epoch 74: best_train: 0.0460 best_valid: 0.0999
+Update Epoch 75: best_train: 0.0483 best_valid: 0.0961
+Epoch 76: best_valid: 0.0961, current_valid: 0.1288, patience: 1/50
+Epoch 77: best_valid: 0.0961, current_valid: 0.1130, patience: 2/50
+Epoch 78: best_valid: 0.0961, current_valid: 0.0999, patience: 3/50
+Epoch 79: best_valid: 0.0961, current_valid: 0.1354, patience: 4/50
+Epoch 80: best_valid: 0.0961, current_valid: 0.1273, patience: 5/50
+Update Epoch 81: best_train: 0.0417 best_valid: 0.0902
+Update Epoch 82: best_train: 0.0429 best_valid: 0.0865
+Epoch 83: best_valid: 0.0865, current_valid: 0.1065, patience: 1/50
+Epoch 84: best_valid: 0.0865, current_valid: 0.1130, patience: 2/50
+Epoch 85: best_valid: 0.0865, current_valid: 0.1178, patience: 3/50
+Epoch 86: best_valid: 0.0865, current_valid: 0.1250, patience: 4/50
+Epoch 87: best_valid: 0.0865, current_valid: 0.1048, patience: 5/50
+Epoch 88: best_valid: 0.0865, current_valid: 0.1040, patience: 6/50
+Epoch 89: best_valid: 0.0865, current_valid: 0.0955, patience: 7/50
+Epoch 90: best_valid: 0.0865, current_valid: 0.1057, patience: 8/50
+Epoch 91: best_valid: 0.0865, current_valid: 0.1121, patience: 9/50
+Epoch 92: best_valid: 0.0865, current_valid: 0.1437, patience: 10/50
+Epoch 93: best_valid: 0.0865, current_valid: 0.1078, patience: 11/50
+Epoch 94: best_valid: 0.0865, current_valid: 0.0940, patience: 12/50
+Epoch 95: best_valid: 0.0865, current_valid: 0.1020, patience: 13/50
+Epoch 96: best_valid: 0.0865, current_valid: 0.0959, patience: 14/50
+Epoch 97: best_valid: 0.0865, current_valid: 0.1813, patience: 15/50
+Epoch 98: best_valid: 0.0865, current_valid: 0.1300, patience: 16/50
+Epoch 99: best_valid: 0.0865, current_valid: 0.0904, patience: 17/50
+Epoch 100: best_valid: 0.0865, current_valid: 0.0924, patience: 18/50
+Epoch 101: best_valid: 0.0865, current_valid: 0.1037, patience: 19/50
+Epoch 102: best_valid: 0.0865, current_valid: 0.0894, patience: 20/50
+Epoch 103: best_valid: 0.0865, current_valid: 0.1019, patience: 21/50
+Epoch 104: best_valid: 0.0865, current_valid: 0.1070, patience: 22/50
+Epoch 105: best_valid: 0.0865, current_valid: 0.0935, patience: 23/50
+Epoch 106: best_valid: 0.0865, current_valid: 0.1336, patience: 24/50
+Epoch 107: best_valid: 0.0865, current_valid: 0.1021, patience: 25/50
+Epoch 108: best_valid: 0.0865, current_valid: 0.1005, patience: 26/50
+Epoch 109: best_valid: 0.0865, current_valid: 0.0874, patience: 27/50
+Epoch 110: best_valid: 0.0865, current_valid: 0.1065, patience: 28/50
+Epoch 111: best_valid: 0.0865, current_valid: 0.1039, patience: 29/50
+Epoch 112: best_valid: 0.0865, current_valid: 0.0980, patience: 30/50
+Epoch 113: best_valid: 0.0865, current_valid: 0.0965, patience: 31/50
+Epoch 114: best_valid: 0.0865, current_valid: 0.0896, patience: 32/50
+Epoch 115: best_valid: 0.0865, current_valid: 0.1575, patience: 33/50
+Epoch 116: best_valid: 0.0865, current_valid: 0.1097, patience: 34/50
+Epoch 117: best_valid: 0.0865, current_valid: 0.1023, patience: 35/50
+Epoch 118: best_valid: 0.0865, current_valid: 0.0877, patience: 36/50
+Epoch 119: best_valid: 0.0865, current_valid: 0.0874, patience: 37/50
+Epoch 120: best_valid: 0.0865, current_valid: 0.1000, patience: 38/50
+Epoch 121: best_valid: 0.0865, current_valid: 0.0890, patience: 39/50
+Epoch 122: best_valid: 0.0865, current_valid: 0.0868, patience: 40/50
+Epoch 123: best_valid: 0.0865, current_valid: 0.0970, patience: 41/50
+Epoch 124: best_valid: 0.0865, current_valid: 0.1003, patience: 42/50
+Epoch 125: best_valid: 0.0865, current_valid: 0.0997, patience: 43/50
+Epoch 126: best_valid: 0.0865, current_valid: 0.0959, patience: 44/50
+Epoch 127: best_valid: 0.0865, current_valid: 0.0910, patience: 45/50
+Epoch 128: best_valid: 0.0865, current_valid: 0.0923, patience: 46/50
+Epoch 129: best_valid: 0.0865, current_valid: 0.0948, patience: 47/50
+Epoch 130: best_valid: 0.0865, current_valid: 0.0900, patience: 48/50
+Epoch 131: best_valid: 0.0865, current_valid: 0.0883, patience: 49/50
+Epoch 132: best_valid: 0.0865, current_valid: 0.0886, patience: 50/50
+Epoch 133: best_valid: 0.0865, current_valid: 0.1064, patience: 51/50
+Finished. 
+ Best validation epoch 82 with metric wmae, train 0.0429, valid 0.0865
+Seed 9
+Start training...
+Update Epoch 0: best_train: 0.8363 best_valid: 1.0854
+Update Epoch 1: best_train: 0.3618 best_valid: 0.5893
+Update Epoch 2: best_train: 0.2760 best_valid: 0.4262
+Update Epoch 3: best_train: 0.2018 best_valid: 0.2811
+Update Epoch 4: best_train: 0.1731 best_valid: 0.2541
+Update Epoch 5: best_train: 0.1443 best_valid: 0.1972
+Update Epoch 6: best_train: 0.1561 best_valid: 0.1873
+Update Epoch 7: best_train: 0.1432 best_valid: 0.1795
+Update Epoch 8: best_train: 0.1345 best_valid: 0.1778
+Epoch 9: best_valid: 0.1778, current_valid: 0.3059, patience: 1/50
+Epoch 10: best_valid: 0.1778, current_valid: 0.1844, patience: 2/50
+Epoch 11: best_valid: 0.1778, current_valid: 0.2336, patience: 3/50
+Epoch 12: best_valid: 0.1778, current_valid: 0.1887, patience: 4/50
+Epoch 13: best_valid: 0.1778, current_valid: 0.1980, patience: 5/50
+Epoch 14: best_valid: 0.1778, current_valid: 0.1960, patience: 6/50
+Epoch 15: best_valid: 0.1778, current_valid: 0.2204, patience: 7/50
+Epoch 16: best_valid: 0.1778, current_valid: 0.2133, patience: 8/50
+Epoch 17: best_valid: 0.1778, current_valid: 0.1821, patience: 9/50
+Epoch 18: best_valid: 0.1778, current_valid: 0.2428, patience: 10/50
+Update Epoch 19: best_train: 0.1083 best_valid: 0.1542
+Epoch 20: best_valid: 0.1542, current_valid: 0.1552, patience: 1/50
+Epoch 21: best_valid: 0.1542, current_valid: 0.1676, patience: 2/50
+Update Epoch 22: best_train: 0.0950 best_valid: 0.1433
+Epoch 23: best_valid: 0.1433, current_valid: 0.1954, patience: 1/50
+Epoch 24: best_valid: 0.1433, current_valid: 0.1988, patience: 2/50
+Epoch 25: best_valid: 0.1433, current_valid: 0.1480, patience: 3/50
+Update Epoch 26: best_train: 0.0873 best_valid: 0.1348
+Epoch 27: best_valid: 0.1348, current_valid: 0.1453, patience: 1/50
+Epoch 28: best_valid: 0.1348, current_valid: 0.1762, patience: 2/50
+Epoch 29: best_valid: 0.1348, current_valid: 0.1870, patience: 3/50
+Epoch 30: best_valid: 0.1348, current_valid: 0.1760, patience: 4/50
+Epoch 31: best_valid: 0.1348, current_valid: 0.1922, patience: 5/50
+Epoch 32: best_valid: 0.1348, current_valid: 0.1578, patience: 6/50
+Epoch 33: best_valid: 0.1348, current_valid: 0.1498, patience: 7/50
+Epoch 34: best_valid: 0.1348, current_valid: 0.1359, patience: 8/50
+Update Epoch 35: best_train: 0.0931 best_valid: 0.1272
+Update Epoch 36: best_train: 0.0711 best_valid: 0.1194
+Epoch 37: best_valid: 0.1194, current_valid: 0.1309, patience: 1/50
+Update Epoch 38: best_train: 0.0743 best_valid: 0.1084
+Epoch 39: best_valid: 0.1084, current_valid: 0.1451, patience: 1/50
+Epoch 40: best_valid: 0.1084, current_valid: 0.1130, patience: 2/50
+Epoch 41: best_valid: 0.1084, current_valid: 0.1675, patience: 3/50
+Epoch 42: best_valid: 0.1084, current_valid: 0.1832, patience: 4/50
+Epoch 43: best_valid: 0.1084, current_valid: 0.2154, patience: 5/50
+Epoch 44: best_valid: 0.1084, current_valid: 0.1358, patience: 6/50
+Epoch 45: best_valid: 0.1084, current_valid: 0.1454, patience: 7/50
+Epoch 46: best_valid: 0.1084, current_valid: 0.1781, patience: 8/50
+Epoch 47: best_valid: 0.1084, current_valid: 0.1467, patience: 9/50
+Epoch 48: best_valid: 0.1084, current_valid: 0.1350, patience: 10/50
+Epoch 49: best_valid: 0.1084, current_valid: 0.1178, patience: 11/50
+Epoch 50: best_valid: 0.1084, current_valid: 0.1227, patience: 12/50
+Epoch 51: best_valid: 0.1084, current_valid: 0.1182, patience: 13/50
+Epoch 52: best_valid: 0.1084, current_valid: 0.1255, patience: 14/50
+Epoch 53: best_valid: 0.1084, current_valid: 0.1362, patience: 15/50
+Epoch 54: best_valid: 0.1084, current_valid: 0.1261, patience: 16/50
+Update Epoch 55: best_train: 0.0578 best_valid: 0.1060
+Epoch 56: best_valid: 0.1060, current_valid: 0.1240, patience: 1/50
+Epoch 57: best_valid: 0.1060, current_valid: 0.1094, patience: 2/50
+Epoch 58: best_valid: 0.1060, current_valid: 0.1346, patience: 3/50
+Epoch 59: best_valid: 0.1060, current_valid: 0.1268, patience: 4/50
+Epoch 60: best_valid: 0.1060, current_valid: 0.1249, patience: 5/50
+Epoch 61: best_valid: 0.1060, current_valid: 0.1593, patience: 6/50
+Epoch 62: best_valid: 0.1060, current_valid: 0.1542, patience: 7/50
+Epoch 63: best_valid: 0.1060, current_valid: 0.2066, patience: 8/50
+Epoch 64: best_valid: 0.1060, current_valid: 0.1341, patience: 9/50
+Update Epoch 65: best_train: 0.0565 best_valid: 0.1054
+Update Epoch 66: best_train: 0.0522 best_valid: 0.0978
+Epoch 67: best_valid: 0.0978, current_valid: 0.1273, patience: 1/50
+Epoch 68: best_valid: 0.0978, current_valid: 0.1298, patience: 2/50
+Epoch 69: best_valid: 0.0978, current_valid: 0.1391, patience: 3/50
+Epoch 70: best_valid: 0.0978, current_valid: 0.1084, patience: 4/50
+Update Epoch 71: best_train: 0.0454 best_valid: 0.0899
+Epoch 72: best_valid: 0.0899, current_valid: 0.0918, patience: 1/50
+Epoch 73: best_valid: 0.0899, current_valid: 0.0904, patience: 2/50
+Epoch 74: best_valid: 0.0899, current_valid: 0.1114, patience: 3/50
+Epoch 75: best_valid: 0.0899, current_valid: 0.1234, patience: 4/50
+Epoch 76: best_valid: 0.0899, current_valid: 0.1281, patience: 5/50
+Epoch 77: best_valid: 0.0899, current_valid: 0.1109, patience: 6/50
+Epoch 78: best_valid: 0.0899, current_valid: 0.1026, patience: 7/50
+Epoch 79: best_valid: 0.0899, current_valid: 0.1036, patience: 8/50
+Epoch 80: best_valid: 0.0899, current_valid: 0.1522, patience: 9/50
+Epoch 81: best_valid: 0.0899, current_valid: 0.1662, patience: 10/50
+Epoch 82: best_valid: 0.0899, current_valid: 0.0988, patience: 11/50
+Epoch 83: best_valid: 0.0899, current_valid: 0.1275, patience: 12/50
+Epoch 84: best_valid: 0.0899, current_valid: 0.1081, patience: 13/50
+Epoch 85: best_valid: 0.0899, current_valid: 0.1049, patience: 14/50
+Epoch 86: best_valid: 0.0899, current_valid: 0.1329, patience: 15/50
+Epoch 87: best_valid: 0.0899, current_valid: 0.1280, patience: 16/50
+Epoch 88: best_valid: 0.0899, current_valid: 0.0983, patience: 17/50
+Epoch 89: best_valid: 0.0899, current_valid: 0.0973, patience: 18/50
+Epoch 90: best_valid: 0.0899, current_valid: 0.1010, patience: 19/50
+Epoch 91: best_valid: 0.0899, current_valid: 0.0975, patience: 20/50
+Epoch 92: best_valid: 0.0899, current_valid: 0.1116, patience: 21/50
+Epoch 93: best_valid: 0.0899, current_valid: 0.0993, patience: 22/50
+Epoch 94: best_valid: 0.0899, current_valid: 0.1161, patience: 23/50
+Update Epoch 95: best_train: 0.0404 best_valid: 0.0860
+Epoch 96: best_valid: 0.0860, current_valid: 0.0868, patience: 1/50
+Epoch 97: best_valid: 0.0860, current_valid: 0.0887, patience: 2/50
+Epoch 98: best_valid: 0.0860, current_valid: 0.0959, patience: 3/50
+Epoch 99: best_valid: 0.0860, current_valid: 0.0861, patience: 4/50
+Epoch 100: best_valid: 0.0860, current_valid: 0.1093, patience: 5/50
+Epoch 101: best_valid: 0.0860, current_valid: 0.0864, patience: 6/50
+Epoch 102: best_valid: 0.0860, current_valid: 0.0993, patience: 7/50
+Update Epoch 103: best_train: 0.0397 best_valid: 0.0859
+Epoch 104: best_valid: 0.0859, current_valid: 0.1176, patience: 1/50
+Epoch 105: best_valid: 0.0859, current_valid: 0.1135, patience: 2/50
+Epoch 106: best_valid: 0.0859, current_valid: 0.1122, patience: 3/50
+Epoch 107: best_valid: 0.0859, current_valid: 0.1065, patience: 4/50
+Epoch 108: best_valid: 0.0859, current_valid: 0.1474, patience: 5/50
+Epoch 109: best_valid: 0.0859, current_valid: 0.1556, patience: 6/50
+Epoch 110: best_valid: 0.0859, current_valid: 0.0976, patience: 7/50
+Epoch 111: best_valid: 0.0859, current_valid: 0.1008, patience: 8/50
+Epoch 112: best_valid: 0.0859, current_valid: 0.0991, patience: 9/50
+Epoch 113: best_valid: 0.0859, current_valid: 0.0931, patience: 10/50
+Epoch 114: best_valid: 0.0859, current_valid: 0.0921, patience: 11/50
+Epoch 115: best_valid: 0.0859, current_valid: 0.0922, patience: 12/50
+Epoch 116: best_valid: 0.0859, current_valid: 0.1071, patience: 13/50
+Epoch 117: best_valid: 0.0859, current_valid: 0.1091, patience: 14/50
+Epoch 118: best_valid: 0.0859, current_valid: 0.0908, patience: 15/50
+Epoch 119: best_valid: 0.0859, current_valid: 0.0894, patience: 16/50
+Epoch 120: best_valid: 0.0859, current_valid: 0.0920, patience: 17/50
+Epoch 121: best_valid: 0.0859, current_valid: 0.1050, patience: 18/50
+Epoch 122: best_valid: 0.0859, current_valid: 0.0984, patience: 19/50
+Epoch 123: best_valid: 0.0859, current_valid: 0.1066, patience: 20/50
+Epoch 124: best_valid: 0.0859, current_valid: 0.0875, patience: 21/50
+Epoch 125: best_valid: 0.0859, current_valid: 0.1058, patience: 22/50
+Epoch 126: best_valid: 0.0859, current_valid: 0.1279, patience: 23/50
+Epoch 127: best_valid: 0.0859, current_valid: 0.1092, patience: 24/50
+Update Epoch 128: best_train: 0.0336 best_valid: 0.0848
+Epoch 129: best_valid: 0.0848, current_valid: 0.1024, patience: 1/50
+Epoch 130: best_valid: 0.0848, current_valid: 0.0910, patience: 2/50
+Epoch 131: best_valid: 0.0848, current_valid: 0.0858, patience: 3/50
+Epoch 132: best_valid: 0.0848, current_valid: 0.0880, patience: 4/50
+Epoch 133: best_valid: 0.0848, current_valid: 0.0995, patience: 5/50
+Epoch 134: best_valid: 0.0848, current_valid: 0.1192, patience: 6/50
+Epoch 135: best_valid: 0.0848, current_valid: 0.0994, patience: 7/50
+Epoch 136: best_valid: 0.0848, current_valid: 0.0906, patience: 8/50
+Epoch 137: best_valid: 0.0848, current_valid: 0.1012, patience: 9/50
+Update Epoch 138: best_train: 0.0350 best_valid: 0.0811
+Update Epoch 139: best_train: 0.0321 best_valid: 0.0807
+Epoch 140: best_valid: 0.0807, current_valid: 0.0890, patience: 1/50
+Epoch 141: best_valid: 0.0807, current_valid: 0.0828, patience: 2/50
+Epoch 142: best_valid: 0.0807, current_valid: 0.0888, patience: 3/50
+Epoch 143: best_valid: 0.0807, current_valid: 0.0866, patience: 4/50
+Epoch 144: best_valid: 0.0807, current_valid: 0.0976, patience: 5/50
+Epoch 145: best_valid: 0.0807, current_valid: 0.0935, patience: 6/50
+Epoch 146: best_valid: 0.0807, current_valid: 0.0903, patience: 7/50
+Epoch 147: best_valid: 0.0807, current_valid: 0.0878, patience: 8/50
+Epoch 148: best_valid: 0.0807, current_valid: 0.0856, patience: 9/50
+Epoch 149: best_valid: 0.0807, current_valid: 0.0890, patience: 10/50
+Epoch 150: best_valid: 0.0807, current_valid: 0.0866, patience: 11/50
+Update Epoch 151: best_train: 0.0282 best_valid: 0.0795
+Update Epoch 152: best_train: 0.0287 best_valid: 0.0794
+Epoch 153: best_valid: 0.0794, current_valid: 0.0862, patience: 1/50
+Epoch 154: best_valid: 0.0794, current_valid: 0.1125, patience: 2/50
+Epoch 155: best_valid: 0.0794, current_valid: 0.0825, patience: 3/50
+Epoch 156: best_valid: 0.0794, current_valid: 0.0798, patience: 4/50
+Epoch 157: best_valid: 0.0794, current_valid: 0.0841, patience: 5/50
+Epoch 158: best_valid: 0.0794, current_valid: 0.0917, patience: 6/50
+Epoch 159: best_valid: 0.0794, current_valid: 0.0847, patience: 7/50
+Epoch 160: best_valid: 0.0794, current_valid: 0.0950, patience: 8/50
+Epoch 161: best_valid: 0.0794, current_valid: 0.0926, patience: 9/50
+Epoch 162: best_valid: 0.0794, current_valid: 0.0879, patience: 10/50
+Epoch 163: best_valid: 0.0794, current_valid: 0.0862, patience: 11/50
+Epoch 164: best_valid: 0.0794, current_valid: 0.0902, patience: 12/50
+Epoch 165: best_valid: 0.0794, current_valid: 0.0861, patience: 13/50
+Epoch 166: best_valid: 0.0794, current_valid: 0.1012, patience: 14/50
+Epoch 167: best_valid: 0.0794, current_valid: 0.0869, patience: 15/50
+Epoch 168: best_valid: 0.0794, current_valid: 0.0904, patience: 16/50
+Epoch 169: best_valid: 0.0794, current_valid: 0.0837, patience: 17/50
+Epoch 170: best_valid: 0.0794, current_valid: 0.0866, patience: 18/50
+Epoch 171: best_valid: 0.0794, current_valid: 0.0804, patience: 19/50
+Epoch 172: best_valid: 0.0794, current_valid: 0.0849, patience: 20/50
+Epoch 173: best_valid: 0.0794, current_valid: 0.0868, patience: 21/50
+Epoch 174: best_valid: 0.0794, current_valid: 0.1019, patience: 22/50
+Epoch 175: best_valid: 0.0794, current_valid: 0.0996, patience: 23/50
+Epoch 176: best_valid: 0.0794, current_valid: 0.0964, patience: 24/50
+Epoch 177: best_valid: 0.0794, current_valid: 0.0837, patience: 25/50
+Epoch 178: best_valid: 0.0794, current_valid: 0.0915, patience: 26/50
+Epoch 179: best_valid: 0.0794, current_valid: 0.0899, patience: 27/50
+Epoch 180: best_valid: 0.0794, current_valid: 0.0940, patience: 28/50
+Epoch 181: best_valid: 0.0794, current_valid: 0.1017, patience: 29/50
+Epoch 182: best_valid: 0.0794, current_valid: 0.0921, patience: 30/50
+Epoch 183: best_valid: 0.0794, current_valid: 0.0885, patience: 31/50
+Epoch 184: best_valid: 0.0794, current_valid: 0.0894, patience: 32/50
+Epoch 185: best_valid: 0.0794, current_valid: 0.1010, patience: 33/50
+Epoch 186: best_valid: 0.0794, current_valid: 0.0837, patience: 34/50
+Epoch 187: best_valid: 0.0794, current_valid: 0.0862, patience: 35/50
+Epoch 188: best_valid: 0.0794, current_valid: 0.1178, patience: 36/50
+Epoch 189: best_valid: 0.0794, current_valid: 0.0847, patience: 37/50
+Epoch 190: best_valid: 0.0794, current_valid: 0.0836, patience: 38/50
+Epoch 191: best_valid: 0.0794, current_valid: 0.0813, patience: 39/50
+Epoch 192: best_valid: 0.0794, current_valid: 0.1137, patience: 40/50
+Epoch 193: best_valid: 0.0794, current_valid: 0.0906, patience: 41/50
+Epoch 194: best_valid: 0.0794, current_valid: 0.0851, patience: 42/50
+Epoch 195: best_valid: 0.0794, current_valid: 0.0846, patience: 43/50
+Epoch 196: best_valid: 0.0794, current_valid: 0.0884, patience: 44/50
+Epoch 197: best_valid: 0.0794, current_valid: 0.0827, patience: 45/50
+Epoch 198: best_valid: 0.0794, current_valid: 0.0859, patience: 46/50
+Epoch 199: best_valid: 0.0794, current_valid: 0.0884, patience: 47/50
+Epoch 200: best_valid: 0.0794, current_valid: 0.0992, patience: 48/50
+Epoch 201: best_valid: 0.0794, current_valid: 0.0908, patience: 49/50
+Epoch 202: best_valid: 0.0794, current_valid: 0.0808, patience: 50/50
+Epoch 203: best_valid: 0.0794, current_valid: 0.0888, patience: 51/50
+Finished. 
+ Best validation epoch 152 with metric wmae, train 0.0287, valid 0.0794
+         model     dataset  seed metric     train     valid  epoch
+0  gcn-virtual  prediction   0.0   wmae  0.028562  0.079399  143.0
+1  gcn-virtual  prediction   1.0   wmae  0.026831  0.078507  181.0
+2  gcn-virtual  prediction   2.0   wmae  0.043235  0.083506   96.0
+3  gcn-virtual  prediction   3.0   wmae  0.028593  0.077317  159.0
+4  gcn-virtual  prediction   4.0   wmae  0.038204  0.077687  127.0
+5  gcn-virtual  prediction   5.0   wmae  0.039534  0.080285  111.0
+6  gcn-virtual  prediction   6.0   wmae  0.019019  0.074807  250.0
+7  gcn-virtual  prediction   7.0   wmae  0.022318  0.077429  236.0
+8  gcn-virtual  prediction   8.0   wmae  0.042912  0.086494   82.0
+9  gcn-virtual  prediction   9.0   wmae  0.028679  0.079361  152.0
+         model     dataset metric          train          valid
+0  gcn-virtual  prediction   wmae  0.0318±0.0086  0.0795±0.0033

@@ -46,7 +46,7 @@ class PolymerDataset(object):
         raw_file = osp.join(self.folder, "raw")
         download_url(self.url, raw_file)
 
-    def get_idx_split(self, split_type="similarity", to_list=False):
+    def get_idx_split(self, split_type="scaffold", to_list=False):
         path = osp.join(self.folder, "split", split_type)
         if os.path.isfile(os.path.join(path, "split_dict.pt")):
             split_dict = torch.load(os.path.join(path, "split_dict.pt"))
