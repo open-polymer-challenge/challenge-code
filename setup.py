@@ -13,7 +13,7 @@ with open(path.join(here, "README.md"), encoding="utf-8") as f:
 
 setup(
     name="opc",
-    version="0.1.0",
+    version="0.2.0",
     description="Open Polymer Challenge",
     url="https://github.com/open-polymer-challenge/challenge-code",
     author="open-polymer-challenge",

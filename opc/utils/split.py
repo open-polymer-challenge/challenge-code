@@ -5,6 +5,19 @@ import numpy as np
 
 from rdkit.Chem.Scaffolds import MurckoScaffold
 from rdkit import Chem
+from rdkit import DataStructs
+from rdkit.Chem import AllChem
+
+def get_fingerprints(smiles_list):
+    fingerprints = []
+    for smiles in smiles_list:
+        mol = Chem.MolFromSmiles(smiles)
+        if mol is not None:  # Ensure the molecule could be parsed
+            fp = AllChem.GetMorganFingerprintAsBitVect(mol, radius=2, nBits=2048)
+            fingerprints.append(fp)
+        else:
+            fingerprints.append(None)
+    return fingerprints
 
 def get_scaffold(mol):
     """Extracts the Murcko Scaffold from a molecule."""
@@ -41,6 +54,28 @@ def cluster_molecules_by_scaffold(molecules, all_data_id, n_jobs=-1):
 
     return scaffolds, batched_id
 
+
+def similarity_split(train_df, test_dev, train_ratio=0.8):        
+    test_dev_smiles = test_dev['SMILES'].tolist()
+    data_smiles = train_df['SMILES'].tolist()
+    data_smiles_fps = get_fingerprints(data_smiles)
+    test_dev_smiles_fps = get_fingerprints(test_dev_smiles)
+    average_similarities = []
+    for data_fp in data_smiles_fps:
+        if data_fp is not None:
+            similarities = [DataStructs.TanimotoSimilarity(data_fp, test_fp) for test_fp in test_dev_smiles_fps if test_fp is not None]
+            average_similarity = np.mean(similarities)
+            average_similarities.append(average_similarity)
+        else:
+            average_similarities.append(0)
+    sorted_indices = np.argsort(-np.array(average_similarities))\
+    
+    valid_ratio = 1 - train_ratio
+    num_valid = int(len(sorted_indices) * valid_ratio)
+    valid_idx = sorted_indices[:num_valid]
+    train_idx = sorted_indices[num_valid:]
+
+    return train_idx.tolist(), valid_idx.tolist(), []
 
 def scaffold_split(train_df, train_ratio=0.8, valid_ratio=None, test_ratio=None):
     """Splits a dataframe of molecules into scaffold-based clusters."""

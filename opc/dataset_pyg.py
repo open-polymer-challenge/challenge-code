@@ -1,5 +1,6 @@
 import os
 import ast
+import json
 import os.path as osp
 import pandas as pd
 
@@ -7,7 +8,7 @@ import torch
 from torch_geometric.data import InMemoryDataset, Data
 
 from opc.utils.mol import smiles2graph
-from opc.utils.split import scaffold_split
+from opc.utils.split import scaffold_split, similarity_split
 from opc.utils.features import task_properties
 from opc.utils.url import download_url
 
@@ -39,7 +40,7 @@ class PygPolymerDataset(InMemoryDataset):
         super(PygPolymerDataset, self).__init__(self.root, transform, pre_transform)
         self.data, self.slices = torch.load(self.processed_paths[0])
 
-    def get_idx_split(self, split_type="scaffold"):
+    def get_idx_split(self, split_type="similarity"):
         path = osp.join(self.root, "split", split_type)
         if os.path.isfile(os.path.join(path, "split_dict.pt")):
             return torch.load(os.path.join(path, "split_dict.pt"))
@@ -47,6 +48,17 @@ class PygPolymerDataset(InMemoryDataset):
             if split_type == "scaffold":
                 data_df = pd.read_csv(osp.join(self.raw_dir, "data_dev.csv.gz"))
                 train_idx, valid_idx, test_idx = scaffold_split(data_df, train_ratio=0.8, valid_ratio=None)
+                train_idx = torch.tensor(train_idx, dtype=torch.long)
+                valid_idx = torch.tensor(valid_idx, dtype=torch.long)
+                test_idx = torch.tensor(test_idx, dtype=torch.long)
+            elif split_type == "similarity":
+                data_df = pd.read_csv(osp.join(self.raw_dir, "data_dev.csv.gz"))
+                if not os.path.exists('test_dev.json'):
+                    raise FileNotFoundError(f"Similarity based splitting requires test_dev.json in {os.getcwd()}")
+                with open('test_dev.json', 'r') as file:
+                    test_dev = json.load(file)
+                    test_dev = pd.json_normalize(test_dev)
+                train_idx, valid_idx, test_idx = similarity_split(data_df, test_dev, train_ratio=0.9)
                 train_idx = torch.tensor(train_idx, dtype=torch.long)
                 valid_idx = torch.tensor(valid_idx, dtype=torch.long)
                 test_idx = torch.tensor(test_idx, dtype=torch.long)

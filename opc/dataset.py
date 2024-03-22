@@ -1,4 +1,5 @@
 import ast
+import json
 import shutil, os
 import os.path as osp
 
@@ -6,7 +7,7 @@ import pandas as pd
 import numpy as np
 import torch
 
-from opc.utils.split import scaffold_split
+from opc.utils.split import scaffold_split, similarity_split
 from opc.utils.features import task_properties
 from opc.utils.url import download_url
 
@@ -45,7 +46,7 @@ class PolymerDataset(object):
         raw_file = osp.join(self.folder, "raw")
         download_url(self.url, raw_file)
 
-    def get_idx_split(self, split_type="scaffold", to_list=False):
+    def get_idx_split(self, split_type="similarity", to_list=False):
         path = osp.join(self.folder, "split", split_type)
         if os.path.isfile(os.path.join(path, "split_dict.pt")):
             split_dict = torch.load(os.path.join(path, "split_dict.pt"))
@@ -53,6 +54,17 @@ class PolymerDataset(object):
             if split_type == "scaffold":
                 data_df = pd.read_csv(osp.join(self.folder, "raw", "data_dev.csv.gz"))
                 train_idx, valid_idx, test_idx = scaffold_split(data_df, train_ratio=0.8, valid_ratio=None)
+                train_idx = torch.tensor(train_idx, dtype=torch.long)
+                valid_idx = torch.tensor(valid_idx, dtype=torch.long)
+                test_idx = torch.tensor(test_idx, dtype=torch.long)
+            elif split_type == "similarity":
+                data_df = pd.read_csv(osp.join(self.folder, "raw", "data_dev.csv.gz"))
+                if not os.path.exists('test_dev.json'):
+                    raise FileNotFoundError(f"Similarity based splitting requires test_dev.json in {os.getcwd()}")
+                with open('test_dev.json', 'r') as file:
+                    test_dev = json.load(file)
+                    test_dev = pd.json_normalize(test_dev)
+                train_idx, valid_idx, test_idx = similarity_split(data_df, test_dev, train_ratio=0.9)
                 train_idx = torch.tensor(train_idx, dtype=torch.long)
                 valid_idx = torch.tensor(valid_idx, dtype=torch.long)
                 test_idx = torch.tensor(test_idx, dtype=torch.long)
