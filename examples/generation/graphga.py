@@ -240,7 +240,7 @@ def main():
     valid_generations = generator.generate_optimized_molecules(
         valid_conds,
         scoring_function=condition_scoring,
-        iterations=2,
+        iterations=args.iterations,
     )
     input_dict = {"true": valid_smiles, "generated": valid_generations}
     performance = evaluator.validate(input_dict)
@@ -249,7 +249,6 @@ def main():
     test_dev = TestDevPolymer(name="generation")
     test_conds = test_dev.prepare_condition()
     test_conds = np.vstack(test_conds).astype(int)
-    test_conds = test_conds[:5]
     test_generations = generator.generate_optimized_molecules(
         test_conds, scoring_function=condition_scoring, iterations=args.iterations
     )
